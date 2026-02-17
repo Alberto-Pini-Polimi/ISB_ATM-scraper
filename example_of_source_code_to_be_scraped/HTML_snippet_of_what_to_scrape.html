@@ -1,0 +1,395 @@
+<div class="maps-container">
+    <div class="container-fluid">
+
+        <!-- parte della leggenda che non mi interessa per il parsing:  -->
+
+        <div id="legenda" style="font-family: Arial;font-size:16px;padding:0px;">
+            Controllate qui sotto il funzionamento di ascensori e montascale nelle stazioni della metropolitana. <a style="color: inherit;text-decoration:underline;cursor:pointer;" href="/accessibile"> Versione per le persone con disabilità visiva.</a><br/>
+            <br>
+            <br>
+            <ul class="nav navbar-nav">
+                <li class="row" id="legendaColori">
+                    <div class="col-lg-3">
+                        <table>
+                            <tr>
+                                <td><span class="dot" style="background-color:green;"></span></td>
+                                <td><span> La stazione &#232; accessibile per tutte le destinazioni. </span></td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div class="col-lg-3">
+                        <table>
+                            <tr>
+                                <td><span class="dot" style="background-color:yellow;"></span></td>
+                                <td><span> La stazione &#232; al momento accessibile solo per alcune destinazioni. </span></td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div class="col-lg-3">
+                        <table>
+                            <tr>
+                                <td><span class="dot" style="background-color:red;"></span></td>
+                                <td><span> La stazione non &#232; al momento accessibile per nessuna destinazione. </span></td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div class="col-lg-3">
+                        <table>
+                            <tr>
+                                <td><span class="dot" style="background-color:white;"></span></td>
+                                <td><span> La stazione non ha ascensori n&#232; montascale. </span></td>
+                            </tr>
+                        </table>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <hr />
+    <p class="text-center">
+        <b> Aggiornato alle: 07:50 </b> <!-- questo è importante da sapere!! lo includo poi nel JSON -->
+    </p>
+    <hr />
+    <div class="panel-group" id="metro-verticale" aria-hidden="true">
+
+        <!-- menù a tendina di tutte le cinque linee metro di milano -->
+        <!-- faccio solo l'esempio con la rossa che per le altre è la stessa cosa -->
+
+        <div class="panel panel-default" style="border-color: rgb(218,41,28); position: relative; z-index: 999;">
+
+            <!-- il pannello è collapesed e quindi non ha dentro i dati che voglio (questo file è solo l'HTML che invia il server di ATM) -->
+
+            <div class="panel-heading collapsed" id="grafoM1" data-toggle="collapse" data-target="#M1-verticale">
+                <h2 class="panel-title">
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#M1-verticale" aria-expanded="true" aria-controls="M1-verticale">
+                        <img style="margin:0 6px;" src="/Content/IMG/Loghi/M1-Logo.png" alt="Legenda-M1" /><strong style="vertical-align:middle;">Metro linea 1</strong>
+                    </button>
+                </h2>
+            </div>
+            
+            <div id="M1-verticale" class="panel-collapse collapse" aria-labelledby="grafoM1" data-parent="#metro-verticale" style="text-align:center">
+                 <!-- legenda -->
+                <div style="text-align: left; border-top: 1.5px solid #ddd">
+                    <div style="margin-top: 0.7em; margin-bottom: 0.3em; margin-right: 0.5em; margin-left: 2.5em;">
+                        <h2 style="font-size: 1em; color: inherit;">
+                            <img style="width:1.8em; height:1.8em" src="/Content/IMG/Ascensore_azzurro.png" alt="Legenda-M1" />
+                            <strong style="vertical-align:middle;">Ascensori</strong>
+                        </h2>
+                    </div>
+                    <div style="margin-top: 0.7em; margin-bottom: 0.2em; margin-right: 0.5em; margin-left: 2.5em;">
+                        <h2 style="font-size: 1em; color:inherit;">
+                            <img style="width:1.8em; height:1.8em" src="/Content/IMG/Montascale_azzurro.png" alt="Legenda-M1" />
+                            <strong style="vertical-align:middle;">Montascale (solo per persone in carrozzina)</strong>
+                        </h2>
+                    </div>
+                </div>
+                
+                <div class="panel-body svg-container" id="M1V" aria-labelledby="linea-1-header" style="border-top:none">
+                    <!--
+                        svg utilizzata dalla librearia d3 nel file scripts/mappa.js per rendering dinamico dei punti
+                        rappresentanti le info delle stazioni
+                    -->
+
+                    <svg id="svg-metro-M1V" data-line="M1" viewBox="0 0 374 1175"
+                         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="overflow: visible; position: relative; z-index: 1;">
+                        <!--VERSIONE NORMALE: "~/Content/IMG/M1_web_V24A.jpg"-->
+                        <image xlink:href="/Content/IMG/M1_web_OLIMPIADI.jpg" width="374" height="1175" />
+                    </svg>
+
+                </div>
+            </div>
+        </div>
+
+        <!-- stessa cosa con altre linee della metro ma non mi interessano per l'esempio -->
+
+    </div>
+
+    <!-- segue poi una serie di stazioni, una è questa: -->
+    <!-- qui è proprio dove c'è il cuore dei dati, cioè la spiegazione di come arrivare ai binari (da entrambe le direzioni usando ascensori o montascale)-->
+
+    <div id="div-dett-1" class="modal" role="dialog" aria-labelledby="Sesto 1&#176; Maggio Fs" tabindex="-1" data-icona="ascensore" data-stato="green" data-id="1" data-impianti="3" data-any="False" data-linea="1">
+        <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3>
+                        <strong style="vertical-align:middle;">Sesto 1&#176; Maggio Fs</strong>
+                        <img src="/Content/IMG/Loghi/M1-Logo.png" alt=Linea M1 />
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    </h3>
+
+                </div>
+                <div class="modal-body" id="modal-1" style="overflow-y:auto;max-height: calc(100vh - 210px);">
+                    <table class="table table-bordered" id="dett-1" role="presentation">
+
+                        <tr class="group">
+                            <td colspan="3" style="text-align:left;color:white;background-color:#E31D1A" class="destDispari">
+                                <img src="/Content/IMG/Loghi/M1-Logo.png" alt="Linea M1" />
+                                <strong>In arrivo a Sesto 1&#176; Maggio Fs</strong>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td colspan="3" style="padding:4px"></td>
+                        </tr>
+                        <tr class="group">
+                            <td colspan="3" class="livello">
+                                Piano della strada (esterno)
+                            </td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1">
+                                <div class="line-vertical arrow-up arrow-down" style="height: 46px" />
+                            </td>
+                            <td class="descImpianto">
+                                <img src="/Content/IMG/Ascensore_azzurro.png" alt="Ascensore" />
+                                <span style="color:black"> <strong>Ascensore</strong> P.za Primo Maggio, Stazione FS (ME 211) </span>
+                            </td>
+                            <td>
+                                <p style="color:black"><strong>In servizio</strong></p>
+                            </td>
+                        </tr>
+                        <tr class="group">
+                            <td colspan="3" class="livello">
+                                Piano dei tornelli (mezzanino)
+                            </td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1">
+                                <div class="line-vertical arrow-up arrow-down" style="height: 46px" />
+                            </td>
+                            <td class="descImpianto">
+                                <img src="/Content/IMG/Ascensore_azzurro.png" alt="Ascensore" />
+                                <span style="color:black"> <strong>Ascensore</strong> (DM 209) </span>
+                            </td>
+                            <td>
+                                <p style="color:black"><strong>In servizio</strong></p>
+                            </td>
+                        </tr>
+
+                        <tr class="group">
+                            <td colspan="3" class="livello"> Banchina dei treni </td>
+                            <td></td>
+                        </tr>
+
+                        <tr>
+                            <td colspan="3" style="padding:4px"></td>
+                        </tr>
+
+                        <tr class="group">
+                            <td colspan="3" style="text-align:left;color:white;background-color:#E31D1A" class="destPari">
+                                <img src="/Content/IMG/Loghi/M1-Logo.png" alt="Linea M1" />
+                                <strong>Direzione Rho/Bisceglie</strong>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td colspan="3" style="padding:4px"></td>
+                        </tr>
+                        <tr class="group">
+                            <td colspan="3" class="livello"> Piano della strada (esterno) </td>
+                            <td></td>
+                        </tr>
+                        <div class="impianti"></div>
+                        <tr>
+                            <td rowspan="1">
+                                <div class="line-vertical arrow-up arrow-down" style="height: 46px" />
+                            </td>
+                            <td class="descImpianto">
+                                <img src="/Content/IMG/Ascensore_azzurro.png" alt="Ascensore" />
+                                <span style="color:black"> <strong>Ascensore</strong> P.za Primo Maggio, Stazione FS (ME 211) </span>
+                            </td>
+                            <td>
+                                <p style="color:black"><strong>In servizio</strong></p>
+                            </td>
+                        </tr>
+                        <tr class="group">
+                            <td colspan="3" class="livello"> Piano dei tornelli (mezzanino) </td>
+                            <td></td>
+                        </tr>
+                        <div class="impianti"></div>
+                        <tr>
+                            <td rowspan="1">
+                                <div class="line-vertical arrow-up arrow-down" style="height: 46px" />
+                            </td>
+                            <td class="descImpianto">
+                                <img src="/Content/IMG/Ascensore_azzurro.png" alt="Ascensore" />
+                                <span style="color:black"> <strong>Ascensore</strong> (PM 210) </span>
+                            </td>
+                            <td>
+                                <p style="color:black"><strong>In servizio</strong></p>
+                            </td>
+                        </tr>
+
+                        <tr class="group">
+                            <td colspan="3" class="livello"> Banchina dei treni </td>
+                            <td></td>
+                        </tr>
+
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- un'altra stazione, c'è l'immagine in questa stessa directory ("Wagner.png") del risultato sul sito -->
+    <!-- includo anche il risultato dello scraping nel file "Wagner.JSON" -->
+    <!-- scelto questo per la varietà tra montascale, ascensori e più opzioni -->
+
+    <div id="div-dett-37" class="modal" role="dialog" aria-labelledby="Wagner" tabindex="-1" data-icona="ascensore, montascale" data-stato="green" data-id="37" data-impianti="5" data-any="False" data-linea="1">
+        <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3>
+                        <strong style="vertical-align:middle;">Wagner</strong>
+                        <img src="/Content/IMG/Loghi/M1-Logo.png" alt=Linea M1 />
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    </h3>
+
+                </div>
+                <div class="modal-body" id="modal-37" style="overflow-y:auto;max-height: calc(100vh - 210px);">
+                    <table class="table table-bordered" id="dett-37" role="presentation">
+
+                        <tr class="group">
+                            <td colspan="3" style="text-align:left;color:white;background-color:#E31D1A" class="destDispari"> <!-- userò il nome della classe come codice di direzione -->
+                                <img src="/Content/IMG/Loghi/M1-Logo.png" alt="Linea M1" />
+                                <strong>Direzione Sesto 1&#176; Maggio Fs</strong> <!-- poi tanto c'è anche il nome del capolinea in quella direzione -->
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td colspan="3" style="padding:4px"></td>
+                        </tr>
+                        <tr class="group">
+                            <td colspan="3" class="livello"> <!-- primo livello (della strada) -->
+                                Piano della strada (esterno)
+                            </td>
+                            <td></td>
+                        </tr>
+                        <tr> <!-- tutto i tr che non sono livello sono un impianto o un oppure (se sono in numero dispari) -->
+                            <td rowspan="1">
+                                <div class="line-vertical arrow-up arrow-down" style="height: 46px" />
+                            </td>
+                            <td class="descImpianto">
+                                <img src="/Content/IMG/Montascale_azzurro.png" alt="Montascale" />
+                                <span style="color:black"> <strong>Montascale</strong> P.zza Wagner angolo via Buonarroti (ME5) </span>
+                            </td>
+                            <td>
+                                <p style="color:black"><strong>In servizio</strong></p>
+                            </td>
+                        </tr>
+                        <tr class="group">
+                            <td colspan="3" class="livello"> <!-- questa è la fine di quel segmento iniziato prima e il potenziale inizio di un prossimo segmento -->
+                                Piano dei tornelli (mezzanino)
+                            </td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="3">
+                                <div class="line-vertical arrow-up arrow-down" style="height: 138px" />
+                            </td>
+                            <td class="descImpianto">
+                                <img src="/Content/IMG/Montascale_azzurro.png" alt="Montascale" />
+                                <span style="color:black"> <strong>Montascale</strong> (MI4) </span>
+                            </td>
+                            <td>
+                                <p style="color:black"><strong>In servizio</strong></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center; vertical-align: middle;font-style: italic;"> Oppure </td>
+                            <td> </td>
+                        </tr>
+                        <tr>
+                            <td class="descImpianto">
+                                <img src="/Content/IMG/Ascensore_azzurro.png" alt="Ascensore" />
+                                <span style="color:black"> <strong>Ascensore</strong> (DM 121) </span>
+                            </td>
+                            <td>
+                                <p style="color:black"><strong>In servizio</strong></p>
+                            </td>
+                        </tr>
+
+                        <tr class="group">
+                            <td colspan="3" class="livello"> Banchina dei treni </td>
+                            <td></td>
+                        </tr>
+
+                        <tr>
+                            <td colspan="3" style="padding:4px"></td>
+                        </tr>
+
+                        <tr class="group">
+                            <td colspan="3" style="text-align:left;color:white;background-color:#E31D1A" class="destPari"> <!-- ecco questa è l'altra direzione -->
+                                <img src="/Content/IMG/Loghi/M1-Logo.png" alt="Linea M1" />
+                                <strong>Direzione Bisceglie</strong> <!-- con relativo nome -->
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td colspan="3" style="padding:4px"></td>
+                        </tr>
+                        <tr class="group">
+                            <td colspan="3" class="livello"> Piano della strada (esterno) </td>
+                            <td></td>
+                        </tr>
+                        <div class="impianti"></div> <!-- div messe a caso che prima non c'erano anche se non è un grosso problema -->
+                        <tr>
+                            <td rowspan="1">
+                                <div class="line-vertical arrow-up arrow-down" style="height: 46px" />
+                            </td>
+                            <td class="descImpianto">
+                                <img src="/Content/IMG/Montascale_azzurro.png" alt="Montascale" />
+                                <span style="color:black"> <strong>Montascale</strong> P.zza Wagner angolo via Buonarroti (ME5) </span>
+                            </td>
+                            <td>
+                                <p style="color:black"><strong>In servizio</strong></p>
+                            </td>
+                        </tr>
+                        <tr class="group">
+                            <td colspan="3" class="livello"> Piano dei tornelli (mezzanino) </td>
+                            <td></td>
+                        </tr>
+                        <div class="impianti"></div>
+                        <tr>
+                            <td rowspan="3">
+                                <div class="line-vertical arrow-up arrow-down" style="height: 138px" />
+                            </td>
+                            <td class="descImpianto">
+                                <img src="/Content/IMG/Montascale_azzurro.png" alt="Montascale" />
+                                <span style="color:black"> <strong>Montascale</strong> (MI3) </span>
+                            </td>
+                            <td>
+                                <p style="color:black"><strong>In servizio</strong></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center; vertical-align: middle;font-style: italic;"> Oppure </td>
+                            <td> </td>
+                        </tr>
+                        <tr>
+                            <td class="descImpianto">
+                                <img src="/Content/IMG/Ascensore_azzurro.png" alt="Ascensore" />
+                                <span style="color:black"> <strong>Ascensore</strong> (PM 120) </span>
+                            </td>
+                            <td>
+                                <p style="color:black"><strong>In servizio</strong></p>
+                            </td>
+                        </tr>
+
+                        <tr class="group">
+                            <td colspan="3" class="livello"> Banchina dei treni </td>
+                            <td></td>
+                        </tr>
+
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+</div>

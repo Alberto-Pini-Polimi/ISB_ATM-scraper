@@ -1,0 +1,53 @@
+name: ATM Data Scraper 🚇
+
+on:
+  # schedulazione automatica: ogni ora (al minuto 0)
+  schedule:
+    - cron: '0 */1 * * *'
+  
+  # questo serve per poterlo lanciare a mano dal tab "Actions" se vuoi testare subito
+  workflow_dispatch:
+
+# permesso fondamentale! serve per dare al bot la licenza di scrivere (pushare) sul repo
+permissions:
+  contents: write
+
+jobs:
+  update-stations:
+    runs-on: ubuntu-latest
+    
+    steps:
+      # step 1: scarica il codice del tuo repo
+      - name: Checkout repo content
+        uses: actions/checkout@v4
+
+      # step 2: prepara l'ambiente python
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      # step 3: installa le dipendenze dal file che abbiamo creato sopra
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      # step 4: lancia il tuo script!
+      - name: Run scraper script
+        run: |
+          python scraper.py
+
+      # step 5: commit & push (solo se ci sono cambiamenti)
+      - name: Commit and push if changed
+        run: |
+          # configuriamo un utente finto per git
+          git config --global user.name "ATM Bot 🤖"
+          git config --global user.email "actions@github.com"
+          
+          # aggiungiamo il file generato
+          git add data/stations.json
+          
+          # check magico: se il file è cambiato rispetto all'ultimo commit, committa e pusha.
+          # se non è cambiato (diff --staged --quiet ritorna true), esce senza errori.
+          git diff --staged --quiet || (git commit -m "auto-update: station data 🔄" && git push)

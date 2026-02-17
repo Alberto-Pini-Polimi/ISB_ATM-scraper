@@ -1,0 +1,82 @@
+{
+  "station_name": "Wagner",
+  "line": "M1",
+  "atm_id": "37",
+  "overall_status": "green",
+  "total_facilities": 5,
+  "last_update": "2024-05-20T10:30:00", 
+  "directions": [
+    {
+      "direction_name": "Direzione Sesto 1° Maggio Fs",
+      "segments": [
+        {
+          "from_to_level": "Da Piano della strada (esterno) a Piano dei tornelli (mezzanino)",
+          "options": [
+            {
+              "type": "Montascale",
+              "description": "Montascale P.zza Wagner angolo via Buonarroti ME5",
+              "code": "ME5",
+              "status": "In servizio",
+              "is_working": true
+            }
+          ]
+        },
+        {
+          "from_to_level": "Da Piano dei tornelli (mezzanino) a Banchina dei treni",
+          "options": [
+            {
+              "type": "Montascale",
+              "description": "Montascale MI4",
+              "code": "MI4",
+              "status": "In servizio",
+              "is_working": true
+            },
+            {
+              "type": "Ascensore",
+              "description": "Ascensore DM 121",
+              "code": "DM 121",
+              "status": "In servizio",
+              "is_working": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "direction_name": "Direzione Bisceglie",
+      "segments": [
+        {
+          "from_to_level": "Da Piano della strada (esterno) a Piano dei tornelli (mezzanino)",
+          "options": [
+            {
+              "type": "Montascale",
+              "description": "Montascale P.zza Wagner angolo via Buonarroti ME5",
+              "code": "ME5",
+              "status": "In servizio",
+              "is_working": true
+            }
+          ]
+        },
+        {
+          "from_to_level": "Da Piano dei tornelli (mezzanino) a Banchina dei treni",
+          "options": [
+            {
+              "type": "Montascale",
+              "description": "Montascale MI3",
+              "code": "MI3",
+              "status": "Fuori Servizio",
+              "is_working": false
+            },
+            {
+              "type": "Ascensore",
+              "description": "Ascensore PM 120",
+              "code": "PM 120",
+              "status": "In servizio",
+              "is_working": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

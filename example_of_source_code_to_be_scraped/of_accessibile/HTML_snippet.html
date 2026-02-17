@@ -1,0 +1,219 @@
+<body style="padding-top:5px;">
+
+    <div class="container body-content">
+
+        ...
+
+        <div class="maps-container">
+
+            <p>Controllate qui sotto il funzionamento di ascensori e montascale nelle stazioni della metropolitana. Situazione aggiornata alle 15:55 </p> <!-- uso questo per il tempo -->
+            <div style="margin-bottom: 10px;">
+                <h1><label for="searchByStation">Ricerca per stazione</label></h1>
+                <select id="searchByStation" class="form-control" style="font-size: 18px; margin-bottom: 20px;">
+                <option value="">Selezionate la stazione. Oppure scrivete il nome o una sua parte.
+</option>
+                    <option value="dett-69">
+Abbiategrasso M2. Banchina accessibile per tutte le direzioni. Questa stazione &#232; servita da: ascensori.
+                    </option>
+                    <option value="dett-149">
+Affori Centro M3. Banchina accessibile per tutte le direzioni. Questa stazione &#232; servita da: ascensori.
+                    </option>
+                    <option value="dett-150">
+Affori Fn M3. Banchina accessibile per tutte le direzioni. Questa stazione &#232; servita da: ascensori.
+                    </option>
+                    ... e tutte le altre stazioni coi relativi codici
+
+            </select>
+                <div id="stationResult">
+
+                    <!-- esempio prima stazione -->
+
+                    <div id="dett-1" class="station-detail" hidden>
+
+                        <h1> Sesto 1&#176; Maggio Fs M1 </h1>
+                        <h2> Stazione accessibile in entrambe le direzioni
+                        </h2>
+                        <h3> In arrivo a Sesto 1&#176; Maggio Fs </h3>
+
+                        <!-- e a seguito le informazioni sull'accessibilità -->
+                        <table class="table" style="table-layout:fixed;">
+                            <tr>
+                                <th class="col-md-6">Livello</th>
+                                <th class="col-md-6">Impianti</th>
+                            </tr>
+                            <tr>
+                                <td class="col-md-6"> Da Piano della strada (esterno) a Piano dei tornelli (mezzanino) </td>
+                                <td class="col-md-6">
+                                    <p> <strong> Ascensore P.za Primo Maggio, Stazione FS ME 211 </strong> In servizio </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="col-md-6"> Da Piano dei tornelli (mezzanino) a Banchina dei treni </td>
+                                <td class="col-md-6">
+                                    <p> <strong> <strong>Ascensore</strong> DM 209 </strong> In servizio </p>
+                                </td>
+                            </tr>
+
+                        </table>
+                        <h3> Direzione Rho/Bisceglie </h3>
+                        <table class="table">
+                            <tr>
+                                <th>Livello</th>
+                                <th>Impianti</th>
+                            </tr>
+                            <tr>
+                                <td class="col-md-6"> Da Piano della strada (esterno) a Piano dei tornelli (mezzanino) </td>
+                                <td class="col-md-6">
+                                    <p> <strong> Ascensore P.za Primo Maggio, Stazione FS ME 211 </strong> In servizio</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="col-md-6"> Da Piano dei tornelli (mezzanino) a Banchina dei treni </td>
+                                <td class="col-md-6">
+                                    <p> <strong> Ascensore PM 210 </strong> In servizio</p>
+                                </td>
+                            </tr>
+
+                        </table>
+
+                    </div>
+                    
+                    ... altre stazioni ...
+
+                    <!-- ancora stazione wagner per la varietà di infrastrutture -->
+                    <div id="dett-37" class="station-detail" hidden>
+
+                        <h1> Wagner M1 </h1>
+                        <h2> Stazione accessibile in entrambe le direzioni
+                        </h2>
+                        <h3> Direzione Sesto 1&#176; Maggio Fs </h3>
+                        <table class="table" style="table-layout:fixed;">
+                            <tr>
+                                <th class="col-md-6">Livello</th>
+                                <th class="col-md-6">Impianti</th>
+                            </tr>
+                            <tr>
+                                <td class="col-md-6"> Da Piano della strada (esterno) a Piano dei tornelli (mezzanino) </td>
+                                <td class="col-md-6">
+                                    <p> <strong> Montascale P.zza Wagner angolo via Buonarroti ME5 </strong> In servizio </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="col-md-6"> Da Piano dei tornelli (mezzanino) a Banchina dei treni </td>
+                                <td class="col-md-6">
+                                    <p> <strong> <strong>Montascale</strong> MI4 </strong> In servizio </p>
+                                    <p> Oppure </p>
+                                    <p> <strong> <strong>Ascensore</strong> DM 121 </strong> In servizio </p>
+                                </td>
+                            </tr>
+
+                        </table>
+                        <h3> Direzione Bisceglie </h3>
+                        <b style="color:red;">Alcuni impianti sono al momento fuori servizio. Considerate gli alternativi. </b>
+                        <br />
+                        <table class="table">
+                            <tr>
+                                <th>Livello</th>
+                                <th>Impianti</th>
+                            </tr>
+                            <tr>
+                                <td class="col-md-6"> Da Piano della strada (esterno) a Piano dei tornelli (mezzanino) </td>
+                                <td class="col-md-6">
+                                    <p> <strong> Montascale P.zza Wagner angolo via Buonarroti ME5 </strong> In servizio</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="col-md-6"> Da Piano dei tornelli (mezzanino) a Banchina dei treni </td>
+                                <td class="col-md-6">
+                                    <p> <strong> Montascale MI3 </strong> Fuori Servizio</p>
+                                    <p> Oppure </p>
+                                    <p> <strong> Ascensore PM 120 </strong> In servizio</p>
+                                </td>
+                            </tr>
+
+                        </table>
+
+                    </div>
+                    
+
+                </div>
+            </div>
+        </div>
+
+        <hr />
+        <div class="navbar" style="margin-bottom:10px; background-color: #C6B9AD;">
+            <section style="margin: 30px;">
+                <p style="font-family:Arial;font-weight:bold;font-size:23px">
+                    <span style="color: #f38230;" class="fa-stack fa-lg">
+                        <i class="fa fa-circle fa-stack-2x" "></i>
+                        <i class="fa fa-exclamation-triangle fa-stack-1x fa-inverse"></i>
+                    </span> COSA SUCCEDE QUANDO UN IMPIANTO SI FERMA? E PERCH&#201;?
+                </p>
+                <p style="font-family:Arial;font-size:23px">
+                    Leggete <a style="color: inherit;text-decoration:underline;cursor:pointer;" href="https://www.atm.it/it/AltriServizi/Disabili/Pagine/impianto_fermo.aspx" target="_blank">qui</a> come organizziamo la riparazione dei guasti o la manutenzione ordinaria.
+                </p>
+            </section>
+        </div>
+        <footer>
+            <div class="navbar" style="background-color: #4d4d4f;">
+                <section style="margin: 30px;">
+                    <p style="color:white;font-family:Arial;font-weight:bold;font-size:23px">
+                        <span style="color: #f38230;" class="fa-stack fa-lg">
+                            <i class="fa fa-circle fa-stack-2x" "></i>
+                            <i class="fa fa-info fa-stack-1x fa-inverse"></i>
+                        </span> SIAMO SEMPRE A VOSTRA DISPOSIZIONE.
+                    </p>
+                    <p style="color:white;font-family:Arial;font-size:23px">
+                        <b>Prima di partire. </b> Per ricevere assistenza chiamate il numero <strong>02 48 607 607 e digitate 1</strong>. Consultate la <a style="color: inherit;text-decoration:underline;cursor:pointer;" id="ShowSchema" data-toggle="modal" data-target="#mappa-rete"><strong>mappa delle linee metropolitane</strong></a> e le informazioni sull'<a href="https://www.atm.it/it/AltriServizi/Disabili/Pagine/ATMperidisabili.aspx" target="_blank" style="color: inherit;text-decoration:underline"><strong>accessibilità di treni e stazioni</strong></a>.
+                        <br />
+                        <br />
+                        <b>Durante il viaggio. </b> Se vi trovate su un ascensore o di un montascale che ha smesso di funzionare, usate i pulsanti per chiamare il nostro personale.
+                    </p>
+                </section>
+            </div>
+            <hr />
+            <div>
+                <img class="center" src="/Content/IMG/ATM_logotipo.jpg" alt="logo-footer" />
+            </div>
+        </footer>
+        <div id="mappa-rete" class="modal">g
+            <div class="modal-dialog modal-dialog-centered schema-metro">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h3>
+                            Schema rete metro
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        </h3>
+                    </div>
+                    <div class="modal-body" style="overflow-y:auto;max-height: calc(100vh - 210px);">
+                        <img class="img-responsive" src="/Content/IMG/schema_rete_metro.jpg" alt="Schema rete metro" />
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <script src="/bundles/jquery?v=w2NV88ejH393Qgr2kF3iYmzZy7OShxWHkeMyrLC_cfs1"></script>
+
+    <script src="/bundles/bootstrap?v=AcWl1dxknO7L_sfwfW4HMnBs3ckIPsEBOCvihmI2k2w1"></script>
+
+    <script src="/Scripts/mappa.js"></script>
+
+    <script src="/Scripts/Site.js"></script>
+
+    <script src="/Scripts/d3/d3.js"></script>
+    <script src="/Scripts/mappe-data.js"></script>
+    <style scoped>
+        ul > li {
+            display: inline-block;
+            /* You can also add some margins here to make it look prettier */
+            margin-right: 10px;
+        }
+    </style>
+
+    <script src="/Scripts/accessibile.js"></script>
+
+</body>
+
+</html>

@@ -3,7 +3,7 @@
         "station_name": "Sesto 1° Maggio Fs",
         "line": "M1",
         "atm_id": "1",
-        "last_update": "2026-02-20T04:50:50.926661",
+        "last_update": "2026-02-20T05:57:27.655223",
         "directions": [
             {
                 "direction_name": "In arrivo a Sesto 1° Maggio Fs",
@@ -15,8 +15,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.za Primo Maggio, Stazione FS",
                                 "code": "ME 211",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -44,8 +44,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.za Primo Maggio, Stazione FS",
                                 "code": "ME 211",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -69,7 +69,7 @@
         "station_name": "Sesto Rondo",
         "line": "M1",
         "atm_id": "3",
-        "last_update": "2026-02-20T04:50:50.927266",
+        "last_update": "2026-02-20T05:57:27.655891",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -135,7 +135,7 @@
         "station_name": "Sesto Marelli",
         "line": "M1",
         "atm_id": "4",
-        "last_update": "2026-02-20T04:50:50.927653",
+        "last_update": "2026-02-20T05:57:27.656313",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -201,7 +201,7 @@
         "station_name": "Villa San Giovanni",
         "line": "M1",
         "atm_id": "8",
-        "last_update": "2026-02-20T04:50:50.928050",
+        "last_update": "2026-02-20T05:57:27.656697",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -267,7 +267,7 @@
         "station_name": "Precotto",
         "line": "M1",
         "atm_id": "9",
-        "last_update": "2026-02-20T04:50:50.928466",
+        "last_update": "2026-02-20T05:57:27.657102",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -333,7 +333,7 @@
         "station_name": "Gorla",
         "line": "M1",
         "atm_id": "12",
-        "last_update": "2026-02-20T04:50:50.928841",
+        "last_update": "2026-02-20T05:57:27.657481",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -399,7 +399,7 @@
         "station_name": "Turro",
         "line": "M1",
         "atm_id": "13",
-        "last_update": "2026-02-20T04:50:50.929230",
+        "last_update": "2026-02-20T05:57:27.657853",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -465,7 +465,7 @@
         "station_name": "Rovereto",
         "line": "M1",
         "atm_id": "15",
-        "last_update": "2026-02-20T04:50:50.929604",
+        "last_update": "2026-02-20T05:57:27.658288",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -531,7 +531,7 @@
         "station_name": "Pasteur",
         "line": "M1",
         "atm_id": "16",
-        "last_update": "2026-02-20T04:50:50.929987",
+        "last_update": "2026-02-20T05:57:27.658677",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -597,7 +597,7 @@
         "station_name": "Loreto",
         "line": "M1",
         "atm_id": "20",
-        "last_update": "2026-02-20T04:50:50.930352",
+        "last_update": "2026-02-20T05:57:27.659088",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -650,8 +650,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore PM 052 (lo trovate nell’area della stazione M2)",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -663,7 +663,7 @@
         "station_name": "Lima",
         "line": "M1",
         "atm_id": "21",
-        "last_update": "2026-02-20T04:50:50.930752",
+        "last_update": "2026-02-20T05:57:27.659478",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -729,7 +729,7 @@
         "station_name": "Porta Venezia",
         "line": "M1",
         "atm_id": "22",
-        "last_update": "2026-02-20T04:50:50.931133",
+        "last_update": "2026-02-20T05:57:27.659852",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -795,7 +795,7 @@
         "station_name": "Palestro",
         "line": "M1",
         "atm_id": "24",
-        "last_update": "2026-02-20T04:50:50.931499",
+        "last_update": "2026-02-20T05:57:27.660250",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -861,7 +861,7 @@
         "station_name": "San Babila",
         "line": "M1",
         "atm_id": "27",
-        "last_update": "2026-02-20T04:50:50.931867",
+        "last_update": "2026-02-20T05:57:27.660626",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -873,6 +873,20 @@
                                 "type": "Montascale",
                                 "description": "Montascale P.za San Babila/Matteotti",
                                 "code": "ME 1",
+                                "status": "Fuori Servizio",
+                                "is_working": false
+                            },
+                            {
+                                "type": "Altro",
+                                "description": "considerate gli impianti nella stazione",
+                                "code": "M4",
+                                "status": "",
+                                "is_working": false
+                            },
+                            {
+                                "type": "Ascensore",
+                                "description": "Ascensore Piazza San Babila 4",
+                                "code": "AE 437",
                                 "status": "In servizio",
                                 "is_working": true
                             }
@@ -902,6 +916,20 @@
                                 "type": "Montascale",
                                 "description": "Montascale P.za San Babila/Matteotti",
                                 "code": "ME 1",
+                                "status": "Fuori Servizio",
+                                "is_working": false
+                            },
+                            {
+                                "type": "Altro",
+                                "description": "considerate gli impianti nella stazione",
+                                "code": "M4",
+                                "status": "",
+                                "is_working": false
+                            },
+                            {
+                                "type": "Ascensore",
+                                "description": "Ascensore Piazza San Babila 4",
+                                "code": "AE 437",
                                 "status": "In servizio",
                                 "is_working": true
                             }
@@ -927,7 +955,7 @@
         "station_name": "Duomo",
         "line": "M1",
         "atm_id": "28",
-        "last_update": "2026-02-20T04:50:50.932243",
+        "last_update": "2026-02-20T05:57:27.661182",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -1007,7 +1035,7 @@
         "station_name": "Cordusio",
         "line": "M1",
         "atm_id": "30",
-        "last_update": "2026-02-20T04:50:50.932690",
+        "last_update": "2026-02-20T05:57:27.661634",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -1073,7 +1101,7 @@
         "station_name": "Cairoli",
         "line": "M1",
         "atm_id": "31",
-        "last_update": "2026-02-20T04:50:50.933069",
+        "last_update": "2026-02-20T05:57:27.662023",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -1139,7 +1167,7 @@
         "station_name": "Cadorna Fn Triennale",
         "line": "M1",
         "atm_id": "32",
-        "last_update": "2026-02-20T04:50:50.933433",
+        "last_update": "2026-02-20T05:57:27.662398",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -1205,7 +1233,7 @@
         "station_name": "Conciliazione",
         "line": "M1",
         "atm_id": "34",
-        "last_update": "2026-02-20T04:50:50.933802",
+        "last_update": "2026-02-20T05:57:27.662778",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -1271,7 +1299,7 @@
         "station_name": "Pagano",
         "line": "M1",
         "atm_id": "35",
-        "last_update": "2026-02-20T04:50:50.934195",
+        "last_update": "2026-02-20T05:57:27.663167",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -1337,7 +1365,7 @@
         "station_name": "Wagner",
         "line": "M1",
         "atm_id": "37",
-        "last_update": "2026-02-20T04:50:50.934552",
+        "last_update": "2026-02-20T05:57:27.663552",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -1417,7 +1445,7 @@
         "station_name": "De Angeli",
         "line": "M1",
         "atm_id": "38",
-        "last_update": "2026-02-20T04:50:50.935051",
+        "last_update": "2026-02-20T05:57:27.664078",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -1483,7 +1511,7 @@
         "station_name": "Gambara",
         "line": "M1",
         "atm_id": "39",
-        "last_update": "2026-02-20T04:50:50.935409",
+        "last_update": "2026-02-20T05:57:27.664451",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -1549,7 +1577,7 @@
         "station_name": "Bande Nere",
         "line": "M1",
         "atm_id": "40",
-        "last_update": "2026-02-20T04:50:50.935781",
+        "last_update": "2026-02-20T05:57:27.664819",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -1643,7 +1671,7 @@
         "station_name": "Primaticcio",
         "line": "M1",
         "atm_id": "42",
-        "last_update": "2026-02-20T04:50:50.936353",
+        "last_update": "2026-02-20T05:57:27.665413",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -1709,7 +1737,7 @@
         "station_name": "Inganni",
         "line": "M1",
         "atm_id": "43",
-        "last_update": "2026-02-20T04:50:50.936766",
+        "last_update": "2026-02-20T05:57:27.665839",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -1803,7 +1831,7 @@
         "station_name": "Bisceglie",
         "line": "M1",
         "atm_id": "47",
-        "last_update": "2026-02-20T04:50:50.937333",
+        "last_update": "2026-02-20T05:57:27.666431",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -1869,7 +1897,7 @@
         "station_name": "Buonarroti",
         "line": "M1",
         "atm_id": "48",
-        "last_update": "2026-02-20T04:50:50.937692",
+        "last_update": "2026-02-20T05:57:27.666798",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -1935,7 +1963,7 @@
         "station_name": "Amendola",
         "line": "M1",
         "atm_id": "49",
-        "last_update": "2026-02-20T04:50:50.938073",
+        "last_update": "2026-02-20T05:57:27.667283",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -2001,7 +2029,7 @@
         "station_name": "Lotto",
         "line": "M1",
         "atm_id": "50",
-        "last_update": "2026-02-20T04:50:50.938427",
+        "last_update": "2026-02-20T05:57:27.667663",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -2067,7 +2095,7 @@
         "station_name": "Qt8",
         "line": "M1",
         "atm_id": "52",
-        "last_update": "2026-02-20T04:50:50.938790",
+        "last_update": "2026-02-20T05:57:27.668080",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -2133,7 +2161,7 @@
         "station_name": "Lampugnano",
         "line": "M1",
         "atm_id": "53",
-        "last_update": "2026-02-20T04:50:50.939166",
+        "last_update": "2026-02-20T05:57:27.668471",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -2175,7 +2203,7 @@
         "station_name": "Uruguay",
         "line": "M1",
         "atm_id": "55",
-        "last_update": "2026-02-20T04:50:50.939424",
+        "last_update": "2026-02-20T05:57:27.668723",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -2187,8 +2215,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Uruguay",
                                 "code": "ME 144",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -2199,8 +2227,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 141",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -2216,8 +2244,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Uruguay",
                                 "code": "ME 144",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -2228,8 +2256,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 140",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -2241,7 +2269,7 @@
         "station_name": "Bonola",
         "line": "M1",
         "atm_id": "56",
-        "last_update": "2026-02-20T04:50:50.939830",
+        "last_update": "2026-02-20T05:57:27.669118",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -2283,7 +2311,7 @@
         "station_name": "San Leonardo",
         "line": "M1",
         "atm_id": "57",
-        "last_update": "2026-02-20T04:50:50.940089",
+        "last_update": "2026-02-20T05:57:27.669374",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -2325,7 +2353,7 @@
         "station_name": "Molino Dorino",
         "line": "M1",
         "atm_id": "59",
-        "last_update": "2026-02-20T04:50:50.940330",
+        "last_update": "2026-02-20T05:57:27.669625",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -2367,7 +2395,7 @@
         "station_name": "Pero",
         "line": "M1",
         "atm_id": "63",
-        "last_update": "2026-02-20T04:50:50.940564",
+        "last_update": "2026-02-20T05:57:27.669875",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -2433,7 +2461,7 @@
         "station_name": "Rho Fiera",
         "line": "M1",
         "atm_id": "64",
-        "last_update": "2026-02-20T04:50:50.940957",
+        "last_update": "2026-02-20T05:57:27.670292",
         "directions": [
             {
                 "direction_name": "Direzione Sesto 1° Maggio Fs",
@@ -2499,7 +2527,7 @@
         "station_name": "Assago Milanofiori Forum",
         "line": "M2",
         "atm_id": "67",
-        "last_update": "2026-02-20T04:50:50.941312",
+        "last_update": "2026-02-20T05:57:27.670665",
         "directions": [
             {
                 "direction_name": "In arrivo a Assago Milanofiori Forum",
@@ -2593,7 +2621,7 @@
         "station_name": "Assago Milanofiori Nord",
         "line": "M2",
         "atm_id": "68",
-        "last_update": "2026-02-20T04:50:50.941818",
+        "last_update": "2026-02-20T05:57:27.671199",
         "directions": [
             {
                 "direction_name": "Direzione Assago Milanofiori Forum",
@@ -2683,7 +2711,7 @@
         "station_name": "Abbiategrasso",
         "line": "M2",
         "atm_id": "69",
-        "last_update": "2026-02-20T04:50:50.942355",
+        "last_update": "2026-02-20T05:57:27.671752",
         "directions": [
             {
                 "direction_name": "In arrivo a Abbiategrasso",
@@ -2749,7 +2777,7 @@
         "station_name": "Famagosta",
         "line": "M2",
         "atm_id": "72",
-        "last_update": "2026-02-20T04:50:50.943172",
+        "last_update": "2026-02-20T05:57:27.672138",
         "directions": [
             {
                 "direction_name": "Direzione Assago Milanofiori Forum/Abbiategrasso",
@@ -2815,7 +2843,7 @@
         "station_name": "Romolo",
         "line": "M2",
         "atm_id": "73",
-        "last_update": "2026-02-20T04:50:50.943522",
+        "last_update": "2026-02-20T05:57:27.672510",
         "directions": [
             {
                 "direction_name": "Direzione Assago Milanofiori Forum/Abbiategrasso",
@@ -2909,7 +2937,7 @@
         "station_name": "Porta Genova Fs",
         "line": "M2",
         "atm_id": "75",
-        "last_update": "2026-02-20T04:50:50.944093",
+        "last_update": "2026-02-20T05:57:27.673092",
         "directions": [
             {
                 "direction_name": "Direzione Assago Milanofiori Forum/Abbiategrasso",
@@ -3003,7 +3031,7 @@
         "station_name": "Sant'Agostino",
         "line": "M2",
         "atm_id": "76",
-        "last_update": "2026-02-20T04:50:50.944592",
+        "last_update": "2026-02-20T05:57:27.674063",
         "directions": [
             {
                 "direction_name": "Direzione Assago Milanofiori Forum/Abbiategrasso",
@@ -3104,7 +3132,7 @@
         "station_name": "Sant'Ambrogio",
         "line": "M2",
         "atm_id": "77",
-        "last_update": "2026-02-20T04:50:50.945185",
+        "last_update": "2026-02-20T05:57:27.674665",
         "directions": [
             {
                 "direction_name": "Direzione Assago Milanofiori Forum/Abbiategrasso",
@@ -3198,7 +3226,7 @@
         "station_name": "Cadorna Fn Triennale",
         "line": "M2",
         "atm_id": "78",
-        "last_update": "2026-02-20T04:50:50.945710",
+        "last_update": "2026-02-20T05:57:27.675241",
         "directions": [
             {
                 "direction_name": "Direzione Assago Milanofiori Forum/Abbiategrasso",
@@ -3264,7 +3292,7 @@
         "station_name": "Lanza",
         "line": "M2",
         "atm_id": "81",
-        "last_update": "2026-02-20T04:50:50.946103",
+        "last_update": "2026-02-20T05:57:27.675619",
         "directions": [
             {
                 "direction_name": "Direzione Assago Milanofiori Forum/Abbiategrasso",
@@ -3276,8 +3304,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Lanza",
                                 "code": "ME 067",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -3288,8 +3316,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 069",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -3305,8 +3333,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Lanza",
                                 "code": "ME 067",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -3317,8 +3345,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 068",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -3330,7 +3358,7 @@
         "station_name": "Moscova",
         "line": "M2",
         "atm_id": "82",
-        "last_update": "2026-02-20T04:50:50.946517",
+        "last_update": "2026-02-20T05:57:27.676000",
         "directions": [
             {
                 "direction_name": "Direzione Assago Milanofiori Forum/Abbiategrasso",
@@ -3396,7 +3424,7 @@
         "station_name": "Garibaldi Fs",
         "line": "M2",
         "atm_id": "83",
-        "last_update": "2026-02-20T04:50:50.946883",
+        "last_update": "2026-02-20T05:57:27.676369",
         "directions": [
             {
                 "direction_name": "Direzione Assago Milanofiori Forum/Abbiategrasso",
@@ -3462,7 +3490,7 @@
         "station_name": "Gioia",
         "line": "M2",
         "atm_id": "84",
-        "last_update": "2026-02-20T04:50:50.947239",
+        "last_update": "2026-02-20T05:57:27.676727",
         "directions": [
             {
                 "direction_name": "Direzione Assago Milanofiori Forum/Abbiategrasso",
@@ -3528,7 +3556,7 @@
         "station_name": "Centrale Fs",
         "line": "M2",
         "atm_id": "86",
-        "last_update": "2026-02-20T04:50:50.947578",
+        "last_update": "2026-02-20T05:57:27.677098",
         "directions": [
             {
                 "direction_name": "Direzione Assago Milanofiori Forum/Abbiategrasso",
@@ -3608,7 +3636,7 @@
         "station_name": "Caiazzo",
         "line": "M2",
         "atm_id": "87",
-        "last_update": "2026-02-20T04:50:50.948027",
+        "last_update": "2026-02-20T05:57:27.677548",
         "directions": [
             {
                 "direction_name": "Direzione Assago Milanofiori Forum/Abbiategrasso",
@@ -3674,7 +3702,7 @@
         "station_name": "Piola",
         "line": "M2",
         "atm_id": "91",
-        "last_update": "2026-02-20T04:50:50.948370",
+        "last_update": "2026-02-20T05:57:27.677924",
         "directions": [
             {
                 "direction_name": "Direzione Assago Milanofiori Forum/Abbiategrasso",
@@ -3768,7 +3796,7 @@
         "station_name": "Lambrate Fs",
         "line": "M2",
         "atm_id": "92",
-        "last_update": "2026-02-20T04:50:50.948923",
+        "last_update": "2026-02-20T05:57:27.678479",
         "directions": [
             {
                 "direction_name": "Direzione Assago Milanofiori Forum/Abbiategrasso",
@@ -3780,8 +3808,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Stazione FS",
                                 "code": "EM 048",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Montascale",
@@ -3823,8 +3851,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Stazione FS",
                                 "code": "EM 048",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Montascale",
@@ -3862,7 +3890,7 @@
         "station_name": "Udine",
         "line": "M2",
         "atm_id": "94",
-        "last_update": "2026-02-20T04:50:50.949403",
+        "last_update": "2026-02-20T05:57:27.679040",
         "directions": [
             {
                 "direction_name": "Direzione Assago Milanofiori Forum/Abbiategrasso",
@@ -3928,7 +3956,7 @@
         "station_name": "Cimiano",
         "line": "M2",
         "atm_id": "96",
-        "last_update": "2026-02-20T04:50:50.949739",
+        "last_update": "2026-02-20T05:57:27.679413",
         "directions": [
             {
                 "direction_name": "Direzione Assago Milanofiori Forum/Abbiategrasso",
@@ -4008,7 +4036,7 @@
         "station_name": "Crescenzago",
         "line": "M2",
         "atm_id": "97",
-        "last_update": "2026-02-20T04:50:50.950174",
+        "last_update": "2026-02-20T05:57:27.679837",
         "directions": [
             {
                 "direction_name": "Direzione Assago Milanofiori Forum/Abbiategrasso",
@@ -4050,7 +4078,7 @@
         "station_name": "Cascina Gobba",
         "line": "M2",
         "atm_id": "100",
-        "last_update": "2026-02-20T04:50:50.950402",
+        "last_update": "2026-02-20T05:57:27.680105",
         "directions": [
             {
                 "direction_name": "Direzione Assago Milanofiori Forum/Abbiategrasso",
@@ -4134,7 +4162,7 @@
         "station_name": "Vimodrone",
         "line": "M2",
         "atm_id": "101",
-        "last_update": "2026-02-20T04:50:50.950849",
+        "last_update": "2026-02-20T05:57:27.680557",
         "directions": [
             {
                 "direction_name": "Direzione Assago Milanofiori Forum/Abbiategrasso",
@@ -4176,14 +4204,14 @@
         "station_name": "Fermata Cascina Burrona",
         "line": "M2",
         "atm_id": "102",
-        "last_update": "2026-02-20T04:50:50.951094",
+        "last_update": "2026-02-20T05:57:27.680807",
         "directions": []
     },
     {
         "station_name": "Cernusco sul Naviglio",
         "line": "M2",
         "atm_id": "104",
-        "last_update": "2026-02-20T04:50:50.951130",
+        "last_update": "2026-02-20T05:57:27.680844",
         "directions": [
             {
                 "direction_name": "Direzione Assago Milanofiori Forum/Abbiategrasso",
@@ -4225,7 +4253,7 @@
         "station_name": "Villa Fiorita",
         "line": "M2",
         "atm_id": "105",
-        "last_update": "2026-02-20T04:50:50.951361",
+        "last_update": "2026-02-20T05:57:27.681097",
         "directions": [
             {
                 "direction_name": "Direzione Assago Milanofiori Forum/Abbiategrasso",
@@ -4262,7 +4290,7 @@
         "station_name": "Cassina De Pecchi",
         "line": "M2",
         "atm_id": "107",
-        "last_update": "2026-02-20T04:50:50.951616",
+        "last_update": "2026-02-20T05:57:27.681347",
         "directions": [
             {
                 "direction_name": "Direzione Assago Milanofiori Forum/Abbiategrasso",
@@ -4304,7 +4332,7 @@
         "station_name": "Bussero",
         "line": "M2",
         "atm_id": "108",
-        "last_update": "2026-02-20T04:50:50.951845",
+        "last_update": "2026-02-20T05:57:27.681589",
         "directions": [
             {
                 "direction_name": "Direzione Gessate",
@@ -4341,14 +4369,14 @@
         "station_name": "Fermata Villa Pompea",
         "line": "M2",
         "atm_id": "109",
-        "last_update": "2026-02-20T04:50:50.952091",
+        "last_update": "2026-02-20T05:57:27.681825",
         "directions": []
     },
     {
         "station_name": "Gorgonzola",
         "line": "M2",
         "atm_id": "110",
-        "last_update": "2026-02-20T04:50:50.952128",
+        "last_update": "2026-02-20T05:57:27.681861",
         "directions": [
             {
                 "direction_name": "Direzione Assago Milanofiori Forum/Abbiategrasso",
@@ -4409,14 +4437,14 @@
         "station_name": "Fermata Cascina Antonietta",
         "line": "M2",
         "atm_id": "114",
-        "last_update": "2026-02-20T04:50:50.952459",
+        "last_update": "2026-02-20T05:57:27.682220",
         "directions": []
     },
     {
         "station_name": "Gessate",
         "line": "M2",
         "atm_id": "116",
-        "last_update": "2026-02-20T04:50:50.952495",
+        "last_update": "2026-02-20T05:57:27.682258",
         "directions": [
             {
                 "direction_name": "Direzione Assago Milanofiori Forum/Abbiategrasso",
@@ -4496,7 +4524,7 @@
         "station_name": "Cologno Sud",
         "line": "M2",
         "atm_id": "117",
-        "last_update": "2026-02-20T04:50:50.952923",
+        "last_update": "2026-02-20T05:57:27.682685",
         "directions": [
             {
                 "direction_name": "Direzione Assago Milanofiori Forum/Abbiategrasso",
@@ -4508,8 +4536,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "MD 035",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -4525,8 +4553,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "MP 036",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -4538,7 +4566,7 @@
         "station_name": "Cologno Centro",
         "line": "M2",
         "atm_id": "118",
-        "last_update": "2026-02-20T04:50:50.953204",
+        "last_update": "2026-02-20T05:57:27.682939",
         "directions": [
             {
                 "direction_name": "Direzione Assago Milanofiori Forum/Abbiategrasso",
@@ -4580,7 +4608,7 @@
         "station_name": "Cologno Nord",
         "line": "M2",
         "atm_id": "119",
-        "last_update": "2026-02-20T04:50:50.953454",
+        "last_update": "2026-02-20T05:57:27.683203",
         "directions": [
             {
                 "direction_name": "Direzione Assago Milanofiori Forum/Abbiategrasso",
@@ -4660,7 +4688,7 @@
         "station_name": "San Donato",
         "line": "M3",
         "atm_id": "125",
-        "last_update": "2026-02-20T04:50:50.953863",
+        "last_update": "2026-02-20T05:57:27.683624",
         "directions": [
             {
                 "direction_name": "In arrivo a San Donato",
@@ -4672,8 +4700,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Isola pedonale 010 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
@@ -4691,8 +4719,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 012 DM",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -4708,8 +4736,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Isola pedonale 010 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
@@ -4727,8 +4755,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 011 PM",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -4740,7 +4768,7 @@
         "station_name": "Rogoredo Fs",
         "line": "M3",
         "atm_id": "127",
-        "last_update": "2026-02-20T04:50:50.954342",
+        "last_update": "2026-02-20T05:57:27.684110",
         "directions": [
             {
                 "direction_name": "Direzione San Donato",
@@ -4806,7 +4834,7 @@
         "station_name": "Porto Di Mare",
         "line": "M3",
         "atm_id": "128",
-        "last_update": "2026-02-20T04:50:50.954696",
+        "last_update": "2026-02-20T05:57:27.684453",
         "directions": [
             {
                 "direction_name": "Direzione San Donato",
@@ -4872,7 +4900,7 @@
         "station_name": "Corvetto",
         "line": "M3",
         "atm_id": "129",
-        "last_update": "2026-02-20T04:50:50.955060",
+        "last_update": "2026-02-20T05:57:27.684805",
         "directions": [
             {
                 "direction_name": "Direzione San Donato",
@@ -4938,7 +4966,7 @@
         "station_name": "Brenta",
         "line": "M3",
         "atm_id": "130",
-        "last_update": "2026-02-20T04:50:50.955402",
+        "last_update": "2026-02-20T05:57:27.685173",
         "directions": [
             {
                 "direction_name": "Direzione San Donato",
@@ -5004,7 +5032,7 @@
         "station_name": "Lodi Tibb",
         "line": "M3",
         "atm_id": "132",
-        "last_update": "2026-02-20T04:50:50.955742",
+        "last_update": "2026-02-20T05:57:27.685528",
         "directions": [
             {
                 "direction_name": "Direzione San Donato",
@@ -5077,7 +5105,7 @@
         "station_name": "Porta Romana",
         "line": "M3",
         "atm_id": "133",
-        "last_update": "2026-02-20T04:50:50.956169",
+        "last_update": "2026-02-20T05:57:27.685973",
         "directions": [
             {
                 "direction_name": "Direzione San Donato",
@@ -5150,7 +5178,7 @@
         "station_name": "Crocetta",
         "line": "M3",
         "atm_id": "134",
-        "last_update": "2026-02-20T04:50:50.956543",
+        "last_update": "2026-02-20T05:57:27.686357",
         "directions": [
             {
                 "direction_name": "Direzione San Donato",
@@ -5230,7 +5258,7 @@
         "station_name": "Missori",
         "line": "M3",
         "atm_id": "135",
-        "last_update": "2026-02-20T04:50:50.956967",
+        "last_update": "2026-02-20T05:57:27.686779",
         "directions": [
             {
                 "direction_name": "Direzione San Donato",
@@ -5310,7 +5338,7 @@
         "station_name": "Duomo",
         "line": "M3",
         "atm_id": "137",
-        "last_update": "2026-02-20T04:50:50.957402",
+        "last_update": "2026-02-20T05:57:27.687205",
         "directions": [
             {
                 "direction_name": "Direzione San Donato",
@@ -5404,7 +5432,7 @@
         "station_name": "Montenapoleone",
         "line": "M3",
         "atm_id": "138",
-        "last_update": "2026-02-20T04:50:50.957899",
+        "last_update": "2026-02-20T05:57:27.687694",
         "directions": [
             {
                 "direction_name": "Direzione San Donato",
@@ -5484,7 +5512,7 @@
         "station_name": "Turati",
         "line": "M3",
         "atm_id": "139",
-        "last_update": "2026-02-20T04:50:50.958309",
+        "last_update": "2026-02-20T05:57:27.688128",
         "directions": [
             {
                 "direction_name": "Direzione San Donato",
@@ -5564,14 +5592,14 @@
         "station_name": "Fermata Repubblica",
         "line": "M3",
         "atm_id": "140",
-        "last_update": "2026-02-20T04:50:50.958724",
+        "last_update": "2026-02-20T05:57:27.688587",
         "directions": []
     },
     {
         "station_name": "Centrale Fs",
         "line": "M3",
         "atm_id": "142",
-        "last_update": "2026-02-20T04:50:50.958759",
+        "last_update": "2026-02-20T05:57:27.688630",
         "directions": [
             {
                 "direction_name": "Direzione San Donato",
@@ -5651,7 +5679,7 @@
         "station_name": "Sondrio",
         "line": "M3",
         "atm_id": "143",
-        "last_update": "2026-02-20T04:50:50.959182",
+        "last_update": "2026-02-20T05:57:27.689078",
         "directions": [
             {
                 "direction_name": "Direzione San Donato",
@@ -5663,8 +5691,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Melchiorre Gioia, 71 058 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -5711,8 +5739,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Melchiorre Gioia, 71 058 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -5755,7 +5783,7 @@
         "station_name": "Zara",
         "line": "M3",
         "atm_id": "144",
-        "last_update": "2026-02-20T04:50:50.959758",
+        "last_update": "2026-02-20T05:57:27.689626",
         "directions": [
             {
                 "direction_name": "Direzione San Donato",
@@ -5767,8 +5795,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Zara, 40 061 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -5779,8 +5807,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 063 DM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -5796,8 +5824,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Zara, 40 061 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -5808,8 +5836,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 062 PM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -5821,7 +5849,7 @@
         "station_name": "Maciachini",
         "line": "M3",
         "atm_id": "146",
-        "last_update": "2026-02-20T04:50:50.960166",
+        "last_update": "2026-02-20T05:57:27.689994",
         "directions": [
             {
                 "direction_name": "Direzione San Donato",
@@ -5833,8 +5861,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.le Maciachini 064 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -5862,8 +5890,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.le Maciachini 064 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -5874,8 +5902,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 066 PM",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -5887,7 +5915,7 @@
         "station_name": "Dergano",
         "line": "M3",
         "atm_id": "147",
-        "last_update": "2026-02-20T04:50:50.960552",
+        "last_update": "2026-02-20T05:57:27.690370",
         "directions": [
             {
                 "direction_name": "Direzione San Donato",
@@ -5953,7 +5981,7 @@
         "station_name": "Affori Centro",
         "line": "M3",
         "atm_id": "149",
-        "last_update": "2026-02-20T04:50:50.960909",
+        "last_update": "2026-02-20T05:57:27.690713",
         "directions": [
             {
                 "direction_name": "Direzione San Donato",
@@ -6019,7 +6047,7 @@
         "station_name": "Affori Fn",
         "line": "M3",
         "atm_id": "150",
-        "last_update": "2026-02-20T04:50:50.961252",
+        "last_update": "2026-02-20T05:57:27.691075",
         "directions": [
             {
                 "direction_name": "Direzione San Donato",
@@ -6085,7 +6113,7 @@
         "station_name": "Comasina",
         "line": "M3",
         "atm_id": "152",
-        "last_update": "2026-02-20T04:50:50.961595",
+        "last_update": "2026-02-20T05:57:27.691422",
         "directions": [
             {
                 "direction_name": "Direzione San Donato",
@@ -6151,7 +6179,7 @@
         "station_name": "Bignami",
         "line": "M5",
         "atm_id": "157",
-        "last_update": "2026-02-20T04:50:50.961956",
+        "last_update": "2026-02-20T05:57:27.691767",
         "directions": [
             {
                 "direction_name": "In arrivo a Bignami",
@@ -6217,7 +6245,7 @@
         "station_name": "Ponale",
         "line": "M5",
         "atm_id": "159",
-        "last_update": "2026-02-20T04:50:50.962306",
+        "last_update": "2026-02-20T05:57:27.692135",
         "directions": [
             {
                 "direction_name": "Direzione Bignami",
@@ -6283,7 +6311,7 @@
         "station_name": "Bicocca",
         "line": "M5",
         "atm_id": "162",
-        "last_update": "2026-02-20T04:50:50.962649",
+        "last_update": "2026-02-20T05:57:27.692483",
         "directions": [
             {
                 "direction_name": "Direzione Bignami",
@@ -6349,7 +6377,7 @@
         "station_name": "Ca' Granda",
         "line": "M5",
         "atm_id": "164",
-        "last_update": "2026-02-20T04:50:50.963030",
+        "last_update": "2026-02-20T05:57:27.692852",
         "directions": [
             {
                 "direction_name": "Direzione Bignami",
@@ -6415,7 +6443,7 @@
         "station_name": "Istria",
         "line": "M5",
         "atm_id": "166",
-        "last_update": "2026-02-20T04:50:50.963373",
+        "last_update": "2026-02-20T05:57:27.693213",
         "directions": [
             {
                 "direction_name": "Direzione Bignami",
@@ -6481,7 +6509,7 @@
         "station_name": "Marche",
         "line": "M5",
         "atm_id": "168",
-        "last_update": "2026-02-20T04:50:50.963711",
+        "last_update": "2026-02-20T05:57:27.693565",
         "directions": [
             {
                 "direction_name": "Direzione Bignami",
@@ -6547,7 +6575,7 @@
         "station_name": "Zara",
         "line": "M5",
         "atm_id": "171",
-        "last_update": "2026-02-20T04:50:50.964077",
+        "last_update": "2026-02-20T05:57:27.693921",
         "directions": [
             {
                 "direction_name": "Direzione Bignami",
@@ -6627,7 +6655,7 @@
         "station_name": "Isola",
         "line": "M5",
         "atm_id": "173",
-        "last_update": "2026-02-20T04:50:50.964482",
+        "last_update": "2026-02-20T05:57:27.694342",
         "directions": [
             {
                 "direction_name": "Direzione Bignami",
@@ -6693,7 +6721,7 @@
         "station_name": "Garibaldi Fs",
         "line": "M5",
         "atm_id": "179",
-        "last_update": "2026-02-20T04:50:50.964888",
+        "last_update": "2026-02-20T05:57:27.694735",
         "directions": [
             {
                 "direction_name": "Direzione Bignami",
@@ -6759,7 +6787,7 @@
         "station_name": "Monumentale",
         "line": "M5",
         "atm_id": "182",
-        "last_update": "2026-02-20T04:50:50.965230",
+        "last_update": "2026-02-20T05:57:27.695109",
         "directions": [
             {
                 "direction_name": "Direzione Bignami",
@@ -6839,7 +6867,7 @@
         "station_name": "Cenisio",
         "line": "M5",
         "atm_id": "183",
-        "last_update": "2026-02-20T04:50:50.965692",
+        "last_update": "2026-02-20T05:57:27.695583",
         "directions": [
             {
                 "direction_name": "Direzione Bignami",
@@ -6919,7 +6947,7 @@
         "station_name": "Gerusalemme",
         "line": "M5",
         "atm_id": "184",
-        "last_update": "2026-02-20T04:50:50.966118",
+        "last_update": "2026-02-20T05:57:27.696020",
         "directions": [
             {
                 "direction_name": "Direzione Bignami",
@@ -6999,7 +7027,7 @@
         "station_name": "Domodossola Fn",
         "line": "M5",
         "atm_id": "185",
-        "last_update": "2026-02-20T04:50:50.966534",
+        "last_update": "2026-02-20T05:57:27.696430",
         "directions": [
             {
                 "direction_name": "Direzione Bignami",
@@ -7079,7 +7107,7 @@
         "station_name": "Tre Torri",
         "line": "M5",
         "atm_id": "186",
-        "last_update": "2026-02-20T04:50:50.966958",
+        "last_update": "2026-02-20T05:57:27.696837",
         "directions": [
             {
                 "direction_name": "Direzione Bignami",
@@ -7159,7 +7187,7 @@
         "station_name": "Portello",
         "line": "M5",
         "atm_id": "187",
-        "last_update": "2026-02-20T04:50:50.967372",
+        "last_update": "2026-02-20T05:57:27.697267",
         "directions": [
             {
                 "direction_name": "Direzione Bignami",
@@ -7239,7 +7267,7 @@
         "station_name": "Lotto",
         "line": "M5",
         "atm_id": "188",
-        "last_update": "2026-02-20T04:50:50.967830",
+        "last_update": "2026-02-20T05:57:27.697673",
         "directions": [
             {
                 "direction_name": "Direzione Bignami",
@@ -7319,7 +7347,7 @@
         "station_name": "Segesta",
         "line": "M5",
         "atm_id": "189",
-        "last_update": "2026-02-20T04:50:50.968316",
+        "last_update": "2026-02-20T05:57:27.698164",
         "directions": [
             {
                 "direction_name": "Direzione Bignami",
@@ -7399,7 +7427,7 @@
         "station_name": "San Siro Ippodromo",
         "line": "M5",
         "atm_id": "191",
-        "last_update": "2026-02-20T04:50:50.968729",
+        "last_update": "2026-02-20T05:57:27.698581",
         "directions": [
             {
                 "direction_name": "Direzione Bignami",
@@ -7479,7 +7507,7 @@
         "station_name": "Loreto",
         "line": "M2",
         "atm_id": "195",
-        "last_update": "2026-02-20T04:50:50.969155",
+        "last_update": "2026-02-20T05:57:27.699019",
         "directions": [
             {
                 "direction_name": "Direzione Assago Milanofiori Forum/Abbiategrasso",
@@ -7510,8 +7538,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 052",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
@@ -7553,8 +7581,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 052",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
@@ -7573,7 +7601,7 @@
         "station_name": "San Siro Stadio",
         "line": "M5",
         "atm_id": "318",
-        "last_update": "2026-02-20T04:50:50.969648",
+        "last_update": "2026-02-20T05:57:27.699508",
         "directions": [
             {
                 "direction_name": "Direzione Bignami",
@@ -7653,7 +7681,7 @@
         "station_name": "San Cristoforo",
         "line": "M4",
         "atm_id": "606",
-        "last_update": "2026-02-20T04:50:50.970074",
+        "last_update": "2026-02-20T05:57:27.699950",
         "directions": [
             {
                 "direction_name": "Direzione Linate Aeroporto",
@@ -7757,7 +7785,7 @@
         "station_name": "Segneri",
         "line": "M4",
         "atm_id": "608",
-        "last_update": "2026-02-20T04:50:50.970600",
+        "last_update": "2026-02-20T05:57:27.700499",
         "directions": [
             {
                 "direction_name": "Direzione Linate Aeroporto",
@@ -7823,7 +7851,7 @@
         "station_name": "Gelsomini",
         "line": "M4",
         "atm_id": "610",
-        "last_update": "2026-02-20T04:50:50.970960",
+        "last_update": "2026-02-20T05:57:27.700852",
         "directions": [
             {
                 "direction_name": "Direzione Linate Aeroporto",
@@ -7889,7 +7917,7 @@
         "station_name": "Frattini",
         "line": "M4",
         "atm_id": "612",
-        "last_update": "2026-02-20T04:50:50.971331",
+        "last_update": "2026-02-20T05:57:27.701222",
         "directions": [
             {
                 "direction_name": "Direzione Linate Aeroporto",
@@ -7955,7 +7983,7 @@
         "station_name": "Tolstoj",
         "line": "M4",
         "atm_id": "615",
-        "last_update": "2026-02-20T04:50:50.971687",
+        "last_update": "2026-02-20T05:57:27.701573",
         "directions": [
             {
                 "direction_name": "Direzione Linate Aeroporto",
@@ -8021,7 +8049,7 @@
         "station_name": "Bolivar",
         "line": "M4",
         "atm_id": "617",
-        "last_update": "2026-02-20T04:50:50.972086",
+        "last_update": "2026-02-20T05:57:27.701934",
         "directions": [
             {
                 "direction_name": "Direzione Linate Aeroporto",
@@ -8087,7 +8115,7 @@
         "station_name": "California",
         "line": "M4",
         "atm_id": "619",
-        "last_update": "2026-02-20T04:50:50.972433",
+        "last_update": "2026-02-20T05:57:27.702287",
         "directions": [
             {
                 "direction_name": "Direzione Linate Aeroporto",
@@ -8153,7 +8181,7 @@
         "station_name": "Coni Zugna",
         "line": "M4",
         "atm_id": "622",
-        "last_update": "2026-02-20T04:50:50.972777",
+        "last_update": "2026-02-20T05:57:27.702660",
         "directions": [
             {
                 "direction_name": "Direzione Linate Aeroporto",
@@ -8219,7 +8247,7 @@
         "station_name": "S. Ambrogio",
         "line": "M4",
         "atm_id": "624",
-        "last_update": "2026-02-20T04:50:50.973137",
+        "last_update": "2026-02-20T05:57:27.703022",
         "directions": [
             {
                 "direction_name": "Direzione Linate Aeroporto",
@@ -8299,7 +8327,7 @@
         "station_name": "De Amicis",
         "line": "M4",
         "atm_id": "628",
-        "last_update": "2026-02-20T04:50:50.973558",
+        "last_update": "2026-02-20T05:57:27.703454",
         "directions": [
             {
                 "direction_name": "Direzione Linate Aeroporto",
@@ -8379,7 +8407,7 @@
         "station_name": "Vetra",
         "line": "M4",
         "atm_id": "630",
-        "last_update": "2026-02-20T04:50:50.973992",
+        "last_update": "2026-02-20T05:57:27.703883",
         "directions": [
             {
                 "direction_name": "Direzione Linate Aeroporto",
@@ -8459,7 +8487,7 @@
         "station_name": "Santa Sofia",
         "line": "M4",
         "atm_id": "632",
-        "last_update": "2026-02-20T04:50:50.974453",
+        "last_update": "2026-02-20T05:57:27.704374",
         "directions": [
             {
                 "direction_name": "Direzione Linate Aeroporto",
@@ -8515,7 +8543,7 @@
         "station_name": "Sforza Policlinico",
         "line": "M4",
         "atm_id": "634",
-        "last_update": "2026-02-20T04:50:50.974742",
+        "last_update": "2026-02-20T05:57:27.704681",
         "directions": [
             {
                 "direction_name": "Direzione Linate Aeroporto",
@@ -8609,7 +8637,7 @@
         "station_name": "San Babila",
         "line": "M4",
         "atm_id": "637",
-        "last_update": "2026-02-20T04:50:50.975236",
+        "last_update": "2026-02-20T05:57:27.705203",
         "directions": [
             {
                 "direction_name": "Direzione Linate Aeroporto",
@@ -8699,7 +8727,7 @@
         "station_name": "Tricolore",
         "line": "M4",
         "atm_id": "640",
-        "last_update": "2026-02-20T04:50:50.975690",
+        "last_update": "2026-02-20T05:57:27.705677",
         "directions": [
             {
                 "direction_name": "Direzione Linate Aeroporto",
@@ -8765,7 +8793,7 @@
         "station_name": "Dateo",
         "line": "M4",
         "atm_id": "643",
-        "last_update": "2026-02-20T04:50:50.976047",
+        "last_update": "2026-02-20T05:57:27.706042",
         "directions": [
             {
                 "direction_name": "Direzione Linate Aeroporto",
@@ -8831,7 +8859,7 @@
         "station_name": "Susa",
         "line": "M4",
         "atm_id": "645",
-        "last_update": "2026-02-20T04:50:50.976391",
+        "last_update": "2026-02-20T05:57:27.706392",
         "directions": [
             {
                 "direction_name": "Direzione Linate Aeroporto",
@@ -8897,7 +8925,7 @@
         "station_name": "Argonne",
         "line": "M4",
         "atm_id": "648",
-        "last_update": "2026-02-20T04:50:50.976737",
+        "last_update": "2026-02-20T05:57:27.706742",
         "directions": [
             {
                 "direction_name": "Direzione Linate Aeroporto",
@@ -8963,7 +8991,7 @@
         "station_name": "Stazione Forlanini",
         "line": "M4",
         "atm_id": "650",
-        "last_update": "2026-02-20T04:50:50.977092",
+        "last_update": "2026-02-20T05:57:27.707111",
         "directions": [
             {
                 "direction_name": "Direzione Linate Aeroporto",
@@ -9043,7 +9071,7 @@
         "station_name": "Repetti",
         "line": "M4",
         "atm_id": "653",
-        "last_update": "2026-02-20T04:50:50.977500",
+        "last_update": "2026-02-20T05:57:27.707527",
         "directions": [
             {
                 "direction_name": "Direzione Linate Aeroporto",
@@ -9109,7 +9137,7 @@
         "station_name": "Linate Aeroporto",
         "line": "M4",
         "atm_id": "662",
-        "last_update": "2026-02-20T04:50:50.977838",
+        "last_update": "2026-02-20T05:57:27.707877",
         "directions": [
             {
                 "direction_name": "In arrivo a Linate Aeroporto",

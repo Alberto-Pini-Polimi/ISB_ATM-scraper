@@ -259,7 +259,4 @@ if __name__ == "__main__":
     scraper = ATMScraper(raw_html)
     data = scraper.get_stations()
     
-    for station in data:
-        if station["station_name"] == "Centrale Fs":  
-            print(station)
-    #scraper.save_to_file(data)
+    scraper.save_to_file(data)

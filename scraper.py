@@ -89,6 +89,9 @@ class Station:
             f_type = "Ascensore"
         elif "montascale" in description.lower():
             f_type = "Montascale"
+        elif "rampa" in description.lower():
+            description = description.replace("<strong>", "").replace("</strong>", "") # questo vale solo per le rampe (almeno tipicamente)
+            f_type = "Rampa"
 
         # Parsing Codice Univoco (es. ME5, DM 121)
         # Regex: Cerca stringa finale composta da LETTERE + spazio opzionale + NUMERI
@@ -256,4 +259,7 @@ if __name__ == "__main__":
     scraper = ATMScraper(raw_html)
     data = scraper.get_stations()
     
-    scraper.save_to_file(data)
+    for station in data:
+        if station["station_name"] == "Centrale Fs":  
+            print(station)
+    #scraper.save_to_file(data)

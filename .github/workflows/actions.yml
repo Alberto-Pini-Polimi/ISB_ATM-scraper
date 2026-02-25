@@ -28,10 +28,10 @@ jobs:
           python-version: '3.10'
           cache: 'pip'
 
-      # step 3: installa le dipendenze dal file che abbiamo creato sopra
+      # step 3: installing dependencies
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt
+          pip install -r dependencies/requirements.txt
 
       # step 4: lancia il tuo script!
       - name: Run scraper script
@@ -50,4 +50,4 @@ jobs:
           
           # check magico: se il file è cambiato rispetto all'ultimo commit, committa e pusha.
           # se non è cambiato (diff --staged --quiet ritorna true), esce senza errori.
-          git diff --staged --quiet || (git commit -m "auto-update: station data 🔄" && git push)
+          git diff --staged --quiet || (git commit -m "updated results" && git push)

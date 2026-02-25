@@ -25,7 +25,6 @@ This is a generalized structure example:
         "station_name": "name",
         "line": "M[1-5]", // line code
         "atm_id": "1", // this is the station id given by ATM
-        "last_update": "... time stamp ...",
         "directions": [ // directions are always 2 (one each way)
             {
                 "direction_name": "terminus station name A",

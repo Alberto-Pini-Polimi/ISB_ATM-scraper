@@ -15,7 +15,6 @@ class Station:
     def __init__(self, html_div):
         self._div = html_div
         self.atm_id = self._div.get('id', '').replace('dett-', '')
-        self.last_update = datetime.now().isoformat()
         
         # Estrazione Dati Principali
         self.name, self.line = self._extract_identity()
@@ -186,7 +185,6 @@ class Station:
             "station_name": self.name,
             "line": self.line,
             "atm_id": self.atm_id,
-            "last_update": self.last_update,
             "directions": self.directions
         }
 
@@ -202,6 +200,7 @@ class ATMScraper:
         """
         Trova tutti i div delle stazioni e restituisce una lista di dizionari.
         """
+        # array contentente tutti i python objects delle stazioni scrapate
         results = []
         # trova tutti i div con classe 'station-detail' o id che inizia per 'dett-', queste
         # sono tutte le stazioni all'interno dell'HTML

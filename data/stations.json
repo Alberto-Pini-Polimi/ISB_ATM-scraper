@@ -3536,8 +3536,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 052 PA (lo trovate nell’area della stazione M3)",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
@@ -4496,8 +4496,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "MP 032",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -5010,8 +5010,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore C.so Lodi 2 030 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -5039,8 +5039,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore C.so Lodi 2 030 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -5545,8 +5545,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 052 PA",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Rampa",
@@ -5744,8 +5744,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.le Maciachini 064 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -5773,8 +5773,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.le Maciachini 064 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6004,8 +6004,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Comasina 078 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -6033,8 +6033,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Comasina 078 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -7479,8 +7479,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Harar",
                                 "code": "AE 579",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -7515,8 +7515,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Harar",
                                 "code": "AE 579",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },

@@ -3632,8 +3632,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale Via Pacini/Via Bazzini",
                                 "code": "ME 4",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
@@ -3658,8 +3658,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CM 050",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -3675,8 +3675,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale Via Pacini/Via Bazzini",
                                 "code": "ME 4",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
@@ -3701,8 +3701,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CM 050",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -6069,8 +6069,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Fulvio Testi",
                                 "code": "ME 522",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6098,8 +6098,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Fulvio Testi",
                                 "code": "ME 522",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },

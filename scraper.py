@@ -7,6 +7,15 @@ import os
 
 URL = "https://isb.atm.it/accessibile"
 
+# le seguenti costanti servono per definire il tipo di segmento 
+# sono coordinate col programma che le userà
+CITY_TO_MEZZANINO = 1
+MEZZANINO_TO_PLATFORM = 2
+OVERPASS_TO = 5 # questo è un po' un jolly
+INTERMEDIO_TO_MEZZANINO = 6
+CITY_TO_INTERMEDIO = 7
+CITY_TO_PLATFORM = 8
+
 class Station:
     """
     Rappresenta una singola stazione.
@@ -121,7 +130,9 @@ class Station:
         headers = self._div.find_all('h3')
 
         for h3 in headers: # itero quindi questi tag
-            direction_name = self._clean_text(h3.get_text())
+            # i replace servono per isolare il nome del capolinea
+            # quando c'è scritto "In arrivo a " significa che la stazione è il capolinea e che la direzione è quella che finisce proprio in quella stazione (quindi solo per chi scende)
+            direction_name = self._clean_text(h3.get_text()).replace("Direzione ", "").replace("In arrivo a ", "")
             segments = []
 
             # becco la tabella successiva ....
@@ -150,6 +161,21 @@ class Station:
                     
                     # Cella 0: livello (From -> To)
                     from_to = self._clean_text(cells[0].get_text())
+                    # assegno anche il tipo così è più semplice dopo per l'altro progetto
+                    if "(esterno)" in from_to and "(mezzanino)" in from_to:
+                        from_to_type = CITY_TO_MEZZANINO
+                    elif "tornelli" in from_to and "Banchina" in from_to:
+                        from_to_type = MEZZANINO_TO_PLATFORM
+                    elif "Sovrappasso" in from_to:
+                        from_to_type = OVERPASS_TO
+                    elif "intermedio" in from_to and "(mezzanino)" in from_to:
+                        from_to_type = INTERMEDIO_TO_MEZZANINO
+                    elif "intermedio" in from_to and "(esterno)" in from_to:
+                        from_to_type = CITY_TO_INTERMEDIO
+                    elif "(esterno)" in from_to and "Banchina" in from_to:
+                        from_to_type = CITY_TO_PLATFORM
+                    else:
+                        from_to_type = None
                     
                     # Cella 1: lista impianti (<p>)
                     options = []
@@ -164,7 +190,8 @@ class Station:
                     # aggiungo quindi il segmento se le opzioni sono valide
                     if options:
                         segments.append({
-                            "from_to_level": from_to,
+                            "from_to": from_to,
+                            "from_to_type": from_to_type,
                             "options": options
                         })
             

@@ -30,7 +30,8 @@ This is a generalized structure example:
                 "direction_name": "terminus station name A",
                 "segments": [ // examples...
                     {
-                        "from_to_level": "Da Piano della strada (esterno) a Piano dei tornelli (mezzanino)",
+                        "from_to": "Da Piano della strada (esterno) a Piano dei tornelli (mezzanino)",
+                        "from_to_type": 1,
                         "options": [
                             {
                                 "type": "Ascensore",
@@ -42,7 +43,8 @@ This is a generalized structure example:
                         ]
                     },
                     {
-                        "from_to_level": "Da Piano dei tornelli (mezzanino) a Banchina dei treni",
+                        "from_to": "Da Piano dei tornelli (mezzanino) a Banchina dei treni",
+                        "from_to_type": 2,
                         "options": [
                             {
                                 "type": "Ascensore",
@@ -59,7 +61,8 @@ This is a generalized structure example:
                 "direction_name": "terminus station name B",
                 "segments": [
                     {
-                        "from_to_level": "Da Piano della strada (esterno) a Piano dei tornelli (mezzanino)",
+                        "from_to": "Da Piano della strada (esterno) a Piano dei tornelli (mezzanino)",
+                        "from_to_type": 1,
                         "options": [
                             {
                                 "type": "Ascensore",
@@ -72,6 +75,7 @@ This is a generalized structure example:
                     },
                     {
                         "from_to_level": "Da Piano dei tornelli (mezzanino) a Banchina dei treni",
+                        "from_to_type": 2,
                         "options": [
                             {
                                 "type": "Ascensore",

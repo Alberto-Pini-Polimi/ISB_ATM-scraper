@@ -473,8 +473,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 192",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -1409,8 +1409,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale P.zza Wagner angolo via Buonarroti",
                                 "code": "ME5",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -1429,8 +1429,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 121",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -1447,8 +1447,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale P.zza Wagner angolo via Buonarroti",
                                 "code": "ME5",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -1467,8 +1467,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 120",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -3141,15 +3141,15 @@
                                 "type": "Montascale",
                                 "description": "Montascale V.le Papiniano/Via Pompilio",
                                 "code": "ME 3",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore S. Agostino",
                                 "code": "ME 075",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -3193,15 +3193,15 @@
                                 "type": "Montascale",
                                 "description": "Montascale V.le Papiniano/Via Pompilio",
                                 "code": "ME 3",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore S. Agostino",
                                 "code": "ME 075",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -3846,8 +3846,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Piola",
                                 "code": "ME 049",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -3866,8 +3866,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CM 050",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -3891,8 +3891,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Piola",
                                 "code": "ME 049",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -3911,8 +3911,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CM 050",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -6002,8 +6002,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 063 DM",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }

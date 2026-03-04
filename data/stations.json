@@ -2617,8 +2617,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Capolinea Bus",
                                 "code": "ME 091",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
@@ -2662,8 +2662,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Capolinea Bus",
                                 "code": "ME 091",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
@@ -3272,8 +3272,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 073",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -3562,8 +3562,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 2",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -4555,8 +4555,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Piazza Europa",
                                 "code": "EM 009",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6541,8 +6541,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Pulci",
                                 "code": "ME 528",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -6572,8 +6572,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Pulci",
                                 "code": "ME 528",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -6900,8 +6900,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Volturno",
                                 "code": "ME 544",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6931,8 +6931,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Volturno",
                                 "code": "ME 544",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -7134,8 +7134,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CA 551",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
@@ -7172,8 +7172,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CA 551",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",

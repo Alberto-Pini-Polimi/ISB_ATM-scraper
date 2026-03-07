@@ -1823,8 +1823,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 117",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -1868,8 +1868,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 118",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -4242,15 +4242,15 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "MC 037",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "AD 039",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -4281,15 +4281,15 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "MC 037",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "MP 038",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -6033,8 +6033,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 062 PM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -6102,8 +6102,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 066 PM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }

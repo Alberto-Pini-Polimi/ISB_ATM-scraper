@@ -442,8 +442,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 193",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -473,8 +473,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 192",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -636,8 +636,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.za Argentina",
                                 "code": "ME 051",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -667,8 +667,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.za Argentina",
                                 "code": "ME 051",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -2100,6 +2100,20 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Monte Rosa 91",
                                 "code": "ME 149",
+                                "status": "Fuori Servizio",
+                                "is_working": false
+                            },
+                            {
+                                "type": "Altro",
+                                "description": "considerate gli impianti nella stazione",
+                                "code": "M5",
+                                "status": "",
+                                "is_working": false
+                            },
+                            {
+                                "type": "Ascensore",
+                                "description": "Ascensore P.le Lotto/Angolo V.le Vigliani",
+                                "code": "AE 568",
                                 "status": "In servizio",
                                 "is_working": true
                             }
@@ -2131,6 +2145,20 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Monte Rosa 91",
                                 "code": "ME 149",
+                                "status": "Fuori Servizio",
+                                "is_working": false
+                            },
+                            {
+                                "type": "Altro",
+                                "description": "considerate gli impianti nella stazione",
+                                "code": "M5",
+                                "status": "",
+                                "is_working": false
+                            },
+                            {
+                                "type": "Ascensore",
+                                "description": "Ascensore P.le Lotto/Angolo V.le Vigliani",
+                                "code": "AE 568",
                                 "status": "In servizio",
                                 "is_working": true
                             }
@@ -2144,8 +2172,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 148",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -4109,8 +4137,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Pusiano",
                                 "code": "EM 042",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -4147,8 +4175,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Pusiano",
                                 "code": "EM 042",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -6102,8 +6130,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 066 PM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -7785,8 +7813,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.za Argentina",
                                 "code": "ME 051",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -7837,8 +7865,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.za Argentina",
                                 "code": "ME 051",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },

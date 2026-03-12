@@ -3071,8 +3071,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 077",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -4555,8 +4555,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Piazza Europa",
                                 "code": "EM 009",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -6347,8 +6347,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 077 DM",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -6792,8 +6792,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 536",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -7134,8 +7134,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CA 551",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
@@ -7172,8 +7172,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CA 551",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",

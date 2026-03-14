@@ -2954,8 +2954,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore L.go Ascari",
                                 "code": "ME 080",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Rampa",
@@ -2999,8 +2999,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore L.go Ascari",
                                 "code": "ME 080",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Rampa",
@@ -3936,8 +3936,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Stazione FS",
                                 "code": "EM 048",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Montascale",
@@ -3981,8 +3981,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Stazione FS",
                                 "code": "EM 048",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Montascale",
@@ -4405,8 +4405,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "EA 18",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -4418,8 +4418,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DA 19",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -6554,8 +6554,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 527",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }

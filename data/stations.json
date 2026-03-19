@@ -2281,8 +2281,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Uruguay",
                                 "code": "ME 144",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -2294,8 +2294,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 141",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -2312,8 +2312,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Uruguay",
                                 "code": "ME 144",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -2325,8 +2325,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 140",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -3265,15 +3265,15 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 1",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 073",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -3936,8 +3936,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Stazione FS",
                                 "code": "EM 048",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Montascale",
@@ -3981,8 +3981,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Stazione FS",
                                 "code": "EM 048",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Montascale",
@@ -4768,8 +4768,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Pascoli",
                                 "code": "EM 028",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
@@ -4806,8 +4806,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Pascoli",
                                 "code": "EM 028",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",

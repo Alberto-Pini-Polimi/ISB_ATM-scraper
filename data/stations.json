@@ -4122,8 +4122,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 1",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -4160,8 +4160,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 1",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -7536,6 +7536,20 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.le Lotto/Angolo V.le Vigliani",
                                 "code": "AE 568",
+                                "status": "Fuori Servizio",
+                                "is_working": false
+                            },
+                            {
+                                "type": "Altro",
+                                "description": "considerate gli impianti nella stazione",
+                                "code": "M1",
+                                "status": "",
+                                "is_working": false
+                            },
+                            {
+                                "type": "Ascensore",
+                                "description": "Ascensore Via Monte Rosa 91",
+                                "code": "ME 149",
                                 "status": "In servizio",
                                 "is_working": true
                             }
@@ -7574,6 +7588,20 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.le Lotto/Angolo V.le Vigliani",
                                 "code": "AE 568",
+                                "status": "Fuori Servizio",
+                                "is_working": false
+                            },
+                            {
+                                "type": "Altro",
+                                "description": "considerate gli impianti nella stazione",
+                                "code": "M1",
+                                "status": "",
+                                "is_working": false
+                            },
+                            {
+                                "type": "Ascensore",
+                                "description": "Ascensore Via Monte Rosa 91",
+                                "code": "ME 149",
                                 "status": "In servizio",
                                 "is_working": true
                             }

@@ -4486,8 +4486,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PA 014",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -4978,8 +4978,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 014 PM",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -6071,8 +6071,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 065 DM",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -6403,8 +6403,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Fulvio Testi",
                                 "code": "ME 522",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -6434,8 +6434,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Fulvio Testi",
                                 "code": "ME 522",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -8668,8 +8668,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Edmondo De Amicis",
                                 "code": "AE 426",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -8706,8 +8706,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Edmondo De Amicis",
                                 "code": "AE 426",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },

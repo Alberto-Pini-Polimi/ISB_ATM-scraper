@@ -3936,8 +3936,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Stazione FS",
                                 "code": "EM 048",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Montascale",
@@ -3981,8 +3981,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Stazione FS",
                                 "code": "EM 048",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Montascale",
@@ -4486,8 +4486,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PA 014",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -4768,8 +4768,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Pascoli",
                                 "code": "EM 028",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
@@ -4806,8 +4806,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Pascoli",
                                 "code": "EM 028",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",

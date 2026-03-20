@@ -1215,8 +1215,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 163",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -1505,8 +1505,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 127",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -3355,8 +3355,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore DM 163 (lo trovate nell’area della stazione M1)",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -4486,8 +4486,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PA 014",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -5286,8 +5286,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore C.so Lodi 2 030 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -5317,8 +5317,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore C.so Lodi 2 030 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -6347,8 +6347,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 077 DM",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }

@@ -4502,8 +4502,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DA 011",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Rampa",
@@ -4527,8 +4527,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Piazza Europa",
                                 "code": "EM 009",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -4540,8 +4540,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PA 010",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }

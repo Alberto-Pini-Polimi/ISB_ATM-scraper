@@ -2075,8 +2075,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 3",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -3770,8 +3770,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale Via A.Doria angolo via G.B.Pergolesi",
                                 "code": "ME1",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -3801,8 +3801,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale Via A.Doria angolo via G.B.Pergolesi",
                                 "code": "ME1",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -4629,8 +4629,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 002",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }

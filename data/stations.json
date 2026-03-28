@@ -2853,8 +2853,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 086",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -7957,8 +7957,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "AT 402",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -8008,8 +8008,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "AT 402",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },

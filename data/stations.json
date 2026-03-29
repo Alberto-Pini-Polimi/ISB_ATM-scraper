@@ -84,8 +84,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Sesto Rondò",
                                 "code": "ME 208",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -97,8 +97,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 207",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -115,8 +115,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Sesto Rondò",
                                 "code": "ME 208",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -128,8 +128,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 206",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -981,15 +981,15 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.za Duomo/Via Pellico 040 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Montascale",
                                 "description": "Montascale Via Torino",
                                 "code": "ME 4",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -1019,15 +1019,15 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.za Duomo/Via Pellico 040 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Montascale",
                                 "description": "Montascale Via Torino",
                                 "code": "ME 4",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -3908,15 +3908,15 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Stazione FS",
                                 "code": "EM 048",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Montascale",
                                 "description": "Montascale P.za Bottini",
                                 "code": "MI 2",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Montascale",
@@ -3935,8 +3935,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 4",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -3953,15 +3953,15 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Stazione FS",
                                 "code": "EM 048",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Montascale",
                                 "description": "Montascale P.za Bottini",
                                 "code": "MI 2",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Montascale",
@@ -3980,8 +3980,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 4",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -4823,15 +4823,15 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Isola pedonale 010 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Marignano 009 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -4843,8 +4843,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 012 DM",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -4861,15 +4861,15 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Isola pedonale 010 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Marignano 009 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -4881,8 +4881,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 011 PM",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -4975,8 +4975,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Cassinis, 13 018 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -5006,8 +5006,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Cassinis, 13 018 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -5113,8 +5113,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore C.so Lodi angolo Brenta/Bacchigliono 021 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -5144,8 +5144,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore C.so Lodi angolo Brenta/Bacchigliono 021 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -5500,15 +5500,15 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.za Duomo/Via Pellico 040 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Montascale",
                                 "description": "Montascale Via Torino",
                                 "code": "ME 4",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -5520,15 +5520,15 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 036 DM",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore 037 DM",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -5545,15 +5545,15 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.za Duomo/Via Pellico 040 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Montascale",
                                 "description": "Montascale Via Torino",
                                 "code": "ME 4",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -5565,15 +5565,15 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 036 DM",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore 037 DM",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }

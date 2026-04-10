@@ -84,8 +84,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Sesto Rondò",
                                 "code": "ME 208",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -115,8 +115,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Sesto Rondò",
                                 "code": "ME 208",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -4157,8 +4157,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 1",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -4175,8 +4175,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 1",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -4629,8 +4629,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 002",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -6526,8 +6526,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 527",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -6720,8 +6720,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Zara",
                                 "code": "ME 538",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6751,8 +6751,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Zara",
                                 "code": "ME 538",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },

@@ -4578,8 +4578,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Parcheggio ATM Gessate - Via XX Settembre",
                                 "code": "EM 004",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -4616,8 +4616,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Parcheggio ATM Gessate - Via XX Settembre",
                                 "code": "EM 004",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -5195,8 +5195,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 023 DM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -6375,8 +6375,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Fulvio Testi",
                                 "code": "ME 522",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -6406,8 +6406,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Fulvio Testi",
                                 "code": "ME 522",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },

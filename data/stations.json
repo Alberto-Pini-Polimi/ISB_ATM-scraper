@@ -15,8 +15,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.za Primo Maggio, Stazione FS",
                                 "code": "ME 211",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -28,8 +28,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 209",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -46,8 +46,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.za Primo Maggio, Stazione FS",
                                 "code": "ME 211",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -59,8 +59,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 210",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -988,8 +988,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale Via Torino",
                                 "code": "ME 4",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -1026,8 +1026,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale Via Torino",
                                 "code": "ME 4",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -2867,8 +2867,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 086",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -5348,8 +5348,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore C.so P.ta Romana/Vigentina 031 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -5368,8 +5368,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 033 DM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -5386,8 +5386,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore C.so P.ta Romana/Vigentina 031 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -5406,8 +5406,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 033 DM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -5521,8 +5521,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale Via Torino",
                                 "code": "ME 4",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -5566,8 +5566,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale Via Torino",
                                 "code": "ME 4",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -5899,8 +5899,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 057 MA",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -5950,8 +5950,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 057 MA",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -6182,8 +6182,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Pellegrino Rossi 072 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6213,8 +6213,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Pellegrino Rossi 072 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6540,8 +6540,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 527",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -7293,8 +7293,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CA 558",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -7331,8 +7331,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CA 558",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }

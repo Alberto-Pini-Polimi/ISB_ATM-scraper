@@ -2364,8 +2364,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 139",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -3331,8 +3331,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 074",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -3607,8 +3607,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 1",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -3853,8 +3853,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Piola",
                                 "code": "ME 049",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -3884,8 +3884,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Piola",
                                 "code": "ME 049",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -6540,8 +6540,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 527",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -6640,8 +6640,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 530",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -8487,8 +8487,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CA 418",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -8518,8 +8518,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CA 418",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }

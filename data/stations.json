@@ -567,8 +567,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale v.le Monza ang. via dei Transiti",
                                 "code": "MI 2",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -598,8 +598,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale v.le Monza ang. via dei Transiti",
                                 "code": "MI 2",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -2988,8 +2988,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 081",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -7958,8 +7958,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Piazza Tirana e stazione ferroviaria",
                                 "code": "TE 404",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -8009,8 +8009,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Piazza Tirana e stazione ferroviaria",
                                 "code": "TE 404",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -9317,8 +9317,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Roberto Ardigo",
                                 "code": "AE 447",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -9355,8 +9355,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Roberto Ardigo",
                                 "code": "AE 447",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -9483,8 +9483,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Linate Via circonvallazione Idroscalo",
                                 "code": "AE 452",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -9528,8 +9528,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Linate Via circonvallazione Idroscalo",
                                 "code": "AE 452",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },

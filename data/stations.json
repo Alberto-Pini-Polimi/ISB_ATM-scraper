@@ -1575,8 +1575,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale Via Trivulzio",
                                 "code": "ME 5",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -1606,8 +1606,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale Via Trivulzio",
                                 "code": "ME 5",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -3425,8 +3425,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Lanza",
                                 "code": "ME 067",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -3456,8 +3456,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Lanza",
                                 "code": "ME 067",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -4228,15 +4228,15 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "MC 037",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "AD 039",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -4267,8 +4267,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "MC 037",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",

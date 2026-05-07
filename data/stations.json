@@ -2114,20 +2114,6 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Monte Rosa 91",
                                 "code": "ME 149",
-                                "status": "Fuori Servizio",
-                                "is_working": false
-                            },
-                            {
-                                "type": "Altro",
-                                "description": "considerate gli impianti nella stazione",
-                                "code": "M5",
-                                "status": "",
-                                "is_working": false
-                            },
-                            {
-                                "type": "Ascensore",
-                                "description": "Ascensore P.le Lotto/Angolo V.le Vigliani",
-                                "code": "AE 568",
                                 "status": "In servizio",
                                 "is_working": true
                             }
@@ -2159,20 +2145,6 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Monte Rosa 91",
                                 "code": "ME 149",
-                                "status": "Fuori Servizio",
-                                "is_working": false
-                            },
-                            {
-                                "type": "Altro",
-                                "description": "considerate gli impianti nella stazione",
-                                "code": "M5",
-                                "status": "",
-                                "is_working": false
-                            },
-                            {
-                                "type": "Ascensore",
-                                "description": "Ascensore P.le Lotto/Angolo V.le Vigliani",
-                                "code": "AE 568",
                                 "status": "In servizio",
                                 "is_working": true
                             }
@@ -4123,8 +4095,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Pusiano",
                                 "code": "EM 042",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -4161,8 +4133,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Pusiano",
                                 "code": "EM 042",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -6417,8 +6389,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Fulvio Testi",
                                 "code": "ME 522",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -6448,8 +6420,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Fulvio Testi",
                                 "code": "ME 522",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -8584,8 +8556,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CA 421",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
@@ -8622,8 +8594,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CA 421",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",

@@ -153,8 +153,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale V.le Monza 382/Via Fiume",
                                 "code": "ME 1",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -184,8 +184,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale V.le Monza 382/Via Fiume",
                                 "code": "ME 1",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -649,8 +649,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore PM 054 (lo trovate nell’area della stazione M2)",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -1741,8 +1741,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale Via Primaticcio angolo viale Legioni Romane (sede Comune di Milano)",
                                 "code": "ME1",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -1754,8 +1754,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI2",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -1772,8 +1772,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale Via Primaticcio angolo viale Legioni Romane (sede Comune di Milano)",
                                 "code": "ME1",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -1785,8 +1785,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI1",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -2280,8 +2280,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 143",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -3635,8 +3635,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 1",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -5344,8 +5344,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 027 PM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
@@ -6141,8 +6141,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Imbonati 069 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6172,8 +6172,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Imbonati 069 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6185,8 +6185,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 067 PM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -6254,8 +6254,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 070 PM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -6417,8 +6417,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Fulvio Testi",
                                 "code": "ME 522",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6448,8 +6448,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Fulvio Testi",
                                 "code": "ME 522",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -7072,8 +7072,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DA 547",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -7826,8 +7826,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 054",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Montascale",
@@ -7871,8 +7871,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 054",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }

@@ -3058,8 +3058,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale Via Casale 3",
                                 "code": "ME 2",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
@@ -3103,8 +3103,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale Via Casale 3",
                                 "code": "ME 2",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
@@ -4214,8 +4214,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale M-I—2",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Montascale",
@@ -4260,8 +4260,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale M-I—2",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
@@ -9053,9 +9053,9 @@
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore",
-                                "code": "AE 440",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "code": "CA 440",
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -9084,9 +9084,9 @@
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore",
-                                "code": "AE 440",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "code": "CA 440",
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }

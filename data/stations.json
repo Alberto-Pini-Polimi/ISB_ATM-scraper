@@ -1001,8 +1001,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 171",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -1436,8 +1436,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 121",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -1481,8 +1481,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 120",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -2227,8 +2227,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 1",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -2703,8 +2703,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 094",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -3263,37 +3263,9 @@
                                 "is_working": false
                             },
                             {
-                                "type": "Altro",
-                                "description": "considerate gli impianti nella stazione",
-                                "code": "M4",
-                                "status": "",
-                                "is_working": false
-                            },
-                            {
-                                "type": "Ascensore",
-                                "description": "Ascensore Via San Vittore / Via Giosuè Carducci",
-                                "code": "AE 420",
-                                "status": "In servizio",
-                                "is_working": true
-                            },
-                            {
                                 "type": "Ascensore",
                                 "description": "Ascensore S. Ambrogio",
                                 "code": "ME 072",
-                                "status": "Fuori Servizio",
-                                "is_working": false
-                            },
-                            {
-                                "type": "Altro",
-                                "description": "considerate gli impianti nella stazione",
-                                "code": "M4",
-                                "status": "",
-                                "is_working": false
-                            },
-                            {
-                                "type": "Ascensore",
-                                "description": "Ascensore Via San Vittore / Via Giosuè Carducci",
-                                "code": "AE 420",
                                 "status": "In servizio",
                                 "is_working": true
                             }
@@ -3336,37 +3308,9 @@
                                 "is_working": false
                             },
                             {
-                                "type": "Altro",
-                                "description": "considerate gli impianti nella stazione",
-                                "code": "M4",
-                                "status": "",
-                                "is_working": false
-                            },
-                            {
-                                "type": "Ascensore",
-                                "description": "Ascensore Via San Vittore / Via Giosuè Carducci",
-                                "code": "AE 420",
-                                "status": "In servizio",
-                                "is_working": true
-                            },
-                            {
                                 "type": "Ascensore",
                                 "description": "Ascensore S. Ambrogio",
                                 "code": "ME 072",
-                                "status": "Fuori Servizio",
-                                "is_working": false
-                            },
-                            {
-                                "type": "Altro",
-                                "description": "considerate gli impianti nella stazione",
-                                "code": "M4",
-                                "status": "",
-                                "is_working": false
-                            },
-                            {
-                                "type": "Ascensore",
-                                "description": "Ascensore Via San Vittore / Via Giosuè Carducci",
-                                "code": "AE 420",
                                 "status": "In servizio",
                                 "is_working": true
                             }
@@ -3494,8 +3438,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 069",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -3978,8 +3922,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Stazione FS",
                                 "code": "EM 048",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Montascale",
@@ -4023,8 +3967,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Stazione FS",
                                 "code": "EM 048",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Montascale",
@@ -4422,8 +4366,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 020",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -4810,8 +4754,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Pascoli",
                                 "code": "EM 028",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
@@ -4848,8 +4792,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Pascoli",
                                 "code": "EM 028",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
@@ -4900,8 +4844,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Marignano 009 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -4938,8 +4882,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Marignano 009 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6238,8 +6182,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Pellegrino Rossi 072 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6269,8 +6213,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Pellegrino Rossi 072 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6282,8 +6226,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 070 PM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -6351,8 +6295,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 073 PM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -6790,8 +6734,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Zara",
                                 "code": "ME 538",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -6821,8 +6765,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Zara",
                                 "code": "ME 538",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -7944,8 +7888,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DA 577",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -8765,8 +8709,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.zza Vetra/ Via Molino delle armi",
                                 "code": "AE 429",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -8803,8 +8747,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.zza Vetra/ Via Molino delle armi",
                                 "code": "AE 429",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },

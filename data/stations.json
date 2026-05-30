@@ -166,8 +166,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 2",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -498,8 +498,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale V.le Monza, civico 82",
                                 "code": "MI 4",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -529,8 +529,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale V.le Monza, civico 82",
                                 "code": "MI 4",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -1409,15 +1409,15 @@
                                 "type": "Montascale",
                                 "description": "Montascale P.zza Wagner angolo via Buonarroti",
                                 "code": "ME5",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore P.za Wagner",
                                 "code": "ME 119",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -1429,15 +1429,15 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI4",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 121",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -1454,15 +1454,15 @@
                                 "type": "Montascale",
                                 "description": "Montascale P.zza Wagner angolo via Buonarroti",
                                 "code": "ME5",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore P.za Wagner",
                                 "code": "ME 119",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -1474,15 +1474,15 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI3",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 120",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -3494,8 +3494,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Moscova",
                                 "code": "ME 064",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -3525,8 +3525,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Moscova",
                                 "code": "ME 064",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -6320,8 +6320,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Comasina 078 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6351,8 +6351,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Comasina 078 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6364,8 +6364,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 076 PM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }

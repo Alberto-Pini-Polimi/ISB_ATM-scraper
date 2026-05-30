@@ -1651,8 +1651,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Bande nere",
                                 "code": "ME 122",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -1696,8 +1696,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Bande nere",
                                 "code": "ME 122",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -2493,8 +2493,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Olona",
                                 "code": "ME 131",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -2524,8 +2524,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Olona",
                                 "code": "ME 131",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -2728,8 +2728,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via del Bosco Rinnovato",
                                 "code": "ME 088",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -2772,8 +2772,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via del Bosco Rinnovato",
                                 "code": "ME 088",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -3494,8 +3494,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Moscova",
                                 "code": "ME 064",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -3525,8 +3525,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Moscova",
                                 "code": "ME 064",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -4088,8 +4088,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Palmanova",
                                 "code": "EM 041",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
@@ -4126,8 +4126,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Palmanova",
                                 "code": "EM 041",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
@@ -6333,8 +6333,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 077 DM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -6930,8 +6930,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 542",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -7452,8 +7452,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CA 563",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
@@ -7490,8 +7490,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CA 563",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",

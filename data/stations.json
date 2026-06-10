@@ -1837,8 +1837,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 117",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -2450,8 +2450,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 135",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -4228,8 +4228,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "MC 037",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
@@ -4267,8 +4267,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "MC 037",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
@@ -5611,8 +5611,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Croce Rossa 043 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -5649,8 +5649,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Croce Rossa 043 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -6251,8 +6251,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Astesani 075 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -6282,8 +6282,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Astesani 075 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -7210,8 +7210,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CA 555",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -7248,8 +7248,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CA 555",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }

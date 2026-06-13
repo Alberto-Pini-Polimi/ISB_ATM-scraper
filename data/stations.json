@@ -3130,8 +3130,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 078",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -8060,8 +8060,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Paolo Segneri",
                                 "code": "AE 406",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -8091,8 +8091,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Paolo Segneri",
                                 "code": "AE 406",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },

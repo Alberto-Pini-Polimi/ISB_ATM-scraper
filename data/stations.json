@@ -360,8 +360,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale V.le Monza, 160",
                                 "code": "ME 4",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -373,8 +373,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 2",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -391,8 +391,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale V.le Monza, 160",
                                 "code": "ME 4",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -404,8 +404,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 1",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -3784,8 +3784,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale Via A.Doria angolo via G.B.Pergolesi",
                                 "code": "ME1",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -3797,8 +3797,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI3",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -3815,8 +3815,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale Via A.Doria angolo via G.B.Pergolesi",
                                 "code": "ME1",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -3828,8 +3828,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI4",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -3922,8 +3922,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Stazione FS",
                                 "code": "EM 048",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Montascale",
@@ -3967,8 +3967,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Stazione FS",
                                 "code": "EM 048",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Montascale",
@@ -4668,8 +4668,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "MD 035",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -4686,8 +4686,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "MP 036",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -8349,8 +8349,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CA 415",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -8380,8 +8380,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CA 415",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -8474,8 +8474,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Viale Coni Zugna",
                                 "code": "AE 419",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -8505,8 +8505,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Viale Coni Zugna",
                                 "code": "AE 419",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },

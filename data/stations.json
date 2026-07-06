@@ -360,8 +360,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale V.le Monza, 160",
                                 "code": "ME 4",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -391,8 +391,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale V.le Monza, 160",
                                 "code": "ME 4",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -1810,8 +1810,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale Via Zurigo",
                                 "code": "ME 2",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
@@ -1855,8 +1855,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale Via Zurigo",
                                 "code": "ME 2",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
@@ -2823,8 +2823,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.za Abbiategrasso",
                                 "code": "ME 085",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -2854,8 +2854,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.za Abbiategrasso",
                                 "code": "ME 085",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -2892,8 +2892,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Famagosta, Parcheggio",
                                 "code": "ME 083",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -2905,8 +2905,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CM 084",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -2923,8 +2923,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Famagosta, Parcheggio",
                                 "code": "ME 083",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -2936,8 +2936,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CM 084",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -3162,8 +3162,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore S. Agostino",
                                 "code": "ME 075",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -3214,8 +3214,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore S. Agostino",
                                 "code": "ME 075",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -4095,8 +4095,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Pusiano",
                                 "code": "EM 042",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -4133,8 +4133,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Pusiano",
                                 "code": "EM 042",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6402,8 +6402,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 521",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -8543,8 +8543,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via San Vittore / Via Giosuè Carducci",
                                 "code": "AE 420",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -8581,8 +8581,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via San Vittore / Via Giosuè Carducci",
                                 "code": "AE 420",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },

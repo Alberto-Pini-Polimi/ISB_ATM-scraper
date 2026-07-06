@@ -429,8 +429,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Turro",
                                 "code": "ME 191",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -460,8 +460,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Turro",
                                 "code": "ME 191",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -3607,8 +3607,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 1",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -4088,8 +4088,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Palmanova",
                                 "code": "EM 041",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
@@ -4126,8 +4126,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Palmanova",
                                 "code": "EM 041",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
@@ -6665,8 +6665,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.le Istria",
                                 "code": "ME 534",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6696,8 +6696,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.le Istria",
                                 "code": "ME 534",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },

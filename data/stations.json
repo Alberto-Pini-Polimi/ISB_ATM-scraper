@@ -429,8 +429,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Turro",
                                 "code": "ME 191",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -460,8 +460,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Turro",
                                 "code": "ME 191",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -1644,8 +1644,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale P.le Bande Nere",
                                 "code": "ME 5",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
@@ -1689,8 +1689,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale P.le Bande Nere",
                                 "code": "ME 5",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
@@ -2196,8 +2196,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 2",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -2450,8 +2450,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 135",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -2468,8 +2468,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 134",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -2638,8 +2638,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Forum",
                                 "code": "ME 092",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
@@ -2683,8 +2683,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Forum",
                                 "code": "ME 092",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
@@ -3065,8 +3065,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.ta Genova",
                                 "code": "ME 076",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -3110,8 +3110,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.ta Genova",
                                 "code": "ME 076",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -3286,8 +3286,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 073",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -4063,8 +4063,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 2",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -4108,8 +4108,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 1",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -4146,8 +4146,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 1",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -4429,8 +4429,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 017",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -4686,8 +4686,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "MP 036",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -4837,15 +4837,15 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Isola pedonale 010 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Marignano 009 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -4875,15 +4875,15 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Isola pedonale 010 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Marignano 009 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -5071,8 +5071,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 020 CM",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -5102,8 +5102,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 020 CM",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -6264,8 +6264,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 074 DM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -6540,8 +6540,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 527",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -6609,8 +6609,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 529",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -7439,8 +7439,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Scarampo",
                                 "code": "AE 565",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -7477,8 +7477,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Scarampo",
                                 "code": "AE 565",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -8336,8 +8336,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Piazza Bolivar, 2",
                                 "code": "AE 414",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -8367,8 +8367,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Piazza Bolivar, 2",
                                 "code": "AE 414",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },

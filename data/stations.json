@@ -429,8 +429,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Turro",
                                 "code": "ME 191",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -442,8 +442,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 193",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -460,8 +460,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Turro",
                                 "code": "ME 191",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -774,8 +774,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale C.so Buenos Aires, 10",
                                 "code": "ME 10",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -805,8 +805,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale C.so Buenos Aires, 10",
                                 "code": "ME 10",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -1651,8 +1651,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Bande nere",
                                 "code": "ME 122",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -1696,8 +1696,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Bande nere",
                                 "code": "ME 122",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -1716,8 +1716,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 124",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -4844,8 +4844,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Marignano 009 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -4882,8 +4882,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Marignano 009 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },

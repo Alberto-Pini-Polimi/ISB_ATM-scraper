@@ -1001,8 +1001,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 171",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -2127,8 +2127,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 147",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -2295,8 +2295,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Uruguay",
                                 "code": "ME 144",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -2326,8 +2326,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Uruguay",
                                 "code": "ME 144",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -7605,8 +7605,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.le Segesta",
                                 "code": "AE 571",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -7643,8 +7643,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.le Segesta",
                                 "code": "AE 571",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },

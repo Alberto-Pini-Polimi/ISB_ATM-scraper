@@ -404,8 +404,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 1",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -511,8 +511,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 2",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -981,8 +981,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.za Duomo/Via Pellico 040 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Montascale",
@@ -1019,8 +1019,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.za Duomo/Via Pellico 040 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Montascale",
@@ -2127,8 +2127,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 147",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -5348,8 +5348,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore C.so P.ta Romana/Vigentina 031 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -5386,8 +5386,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore C.so P.ta Romana/Vigentina 031 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -5514,8 +5514,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.za Duomo/Via Pellico 040 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Montascale",
@@ -5559,8 +5559,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.za Duomo/Via Pellico 040 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Montascale",
@@ -5611,8 +5611,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Croce Rossa 043 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -5624,15 +5624,15 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 041 DM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore 042 DM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -5649,8 +5649,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Croce Rossa 043 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -5662,15 +5662,15 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 041 DM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore 042 DM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -9179,8 +9179,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Viale Argonne 2",
                                 "code": "AE 443",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -9210,8 +9210,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Viale Argonne 2",
                                 "code": "AE 443",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -9496,8 +9496,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PA 454",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -9541,8 +9541,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PA 454",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }

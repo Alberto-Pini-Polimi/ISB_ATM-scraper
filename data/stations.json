@@ -774,8 +774,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale C.so Buenos Aires, 10",
                                 "code": "ME 10",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -805,8 +805,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale C.so Buenos Aires, 10",
                                 "code": "ME 10",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -2323,8 +2323,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Uruguay",
                                 "code": "ME 144",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -2354,8 +2354,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Uruguay",
                                 "code": "ME 144",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -2989,8 +2989,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore L.go Ascari",
                                 "code": "ME 079",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
@@ -3034,8 +3034,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore L.go Ascari",
                                 "code": "ME 079",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
@@ -4138,6 +4138,13 @@
                                 "code": "MI 1",
                                 "status": "Fuori Servizio",
                                 "is_working": false
+                            },
+                            {
+                                "type": "Ascensore",
+                                "description": "Ascensore",
+                                "code": "CM 43",
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -4176,6 +4183,13 @@
                                 "code": "MI 1",
                                 "status": "Fuori Servizio",
                                 "is_working": false
+                            },
+                            {
+                                "type": "Ascensore",
+                                "description": "Ascensore",
+                                "code": "CM 43",
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -4885,8 +4899,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 012 DM",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -5376,8 +5390,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore C.so P.ta Romana/Vigentina 031 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -5414,8 +5428,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore C.so P.ta Romana/Vigentina 031 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6210,8 +6224,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Pellegrino Rossi 072 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6241,8 +6255,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Pellegrino Rossi 072 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6348,8 +6362,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Comasina 078 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6379,8 +6393,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Comasina 078 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6762,8 +6776,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Zara",
                                 "code": "ME 538",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -6793,8 +6807,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Zara",
                                 "code": "ME 538",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -6831,8 +6845,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Zara",
                                 "code": "ME 540",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
@@ -6869,8 +6883,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Zara",
                                 "code": "ME 540",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
@@ -8654,8 +8668,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Edmondo De Amicis",
                                 "code": "AE 426",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -8692,8 +8706,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Edmondo De Amicis",
                                 "code": "AE 426",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },

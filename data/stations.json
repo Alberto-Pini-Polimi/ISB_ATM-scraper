@@ -1284,8 +1284,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 4",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -1409,8 +1409,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale P.zza Wagner angolo via Buonarroti",
                                 "code": "ME5",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
@@ -1454,8 +1454,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale P.zza Wagner angolo via Buonarroti",
                                 "code": "ME5",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
@@ -2537,8 +2537,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 132",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -3494,8 +3494,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Moscova",
                                 "code": "ME 064",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -3525,8 +3525,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Moscova",
                                 "code": "ME 064",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6196,8 +6196,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Pellegrino Rossi 072 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6209,8 +6209,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 071 DM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -6227,8 +6227,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Pellegrino Rossi 072 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6240,8 +6240,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 070 PM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }

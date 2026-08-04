@@ -2020,8 +2020,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 3",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -2158,8 +2158,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 148",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -4313,8 +4313,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 027",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -4331,8 +4331,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 026",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -6447,8 +6447,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 520",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }

@@ -1550,8 +1550,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 126",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -2020,8 +2020,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 3",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -3578,6 +3578,13 @@
                                 "code": "MI 2",
                                 "status": "In servizio",
                                 "is_working": true
+                            },
+                            {
+                                "type": "Ascensore",
+                                "description": "Ascensore",
+                                "code": "DM 063",
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -3607,6 +3614,13 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 1",
+                                "status": "In servizio",
+                                "is_working": true
+                            },
+                            {
+                                "type": "Ascensore",
+                                "description": "Ascensore",
+                                "code": "PM 062",
                                 "status": "In servizio",
                                 "is_working": true
                             }
@@ -3938,6 +3952,13 @@
                                 "code": "ME 1",
                                 "status": "In servizio",
                                 "is_working": true
+                            },
+                            {
+                                "type": "Ascensore",
+                                "description": "Ascensore Via Pacini",
+                                "code": "ME 047",
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -3949,6 +3970,13 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 4",
+                                "status": "In servizio",
+                                "is_working": true
+                            },
+                            {
+                                "type": "Ascensore",
+                                "description": "Ascensore",
+                                "code": "CM 046",
                                 "status": "In servizio",
                                 "is_working": true
                             }
@@ -3983,6 +4011,13 @@
                                 "code": "ME 1",
                                 "status": "In servizio",
                                 "is_working": true
+                            },
+                            {
+                                "type": "Ascensore",
+                                "description": "Ascensore Via Pacini",
+                                "code": "ME 047",
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -3994,6 +4029,13 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 4",
+                                "status": "In servizio",
+                                "is_working": true
+                            },
+                            {
+                                "type": "Ascensore",
+                                "description": "Ascensore",
+                                "code": "CM 046",
                                 "status": "In servizio",
                                 "is_working": true
                             }
@@ -4599,8 +4641,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Piazza Turati",
                                 "code": "EM 003",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
@@ -4637,8 +4679,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Piazza Turati",
                                 "code": "EM 003",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
@@ -5893,8 +5935,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 059 DA",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -5944,8 +5986,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 060 PA",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -6127,8 +6169,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Imbonati 069 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6158,8 +6200,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Imbonati 069 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6171,8 +6213,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 067 PM",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -6196,8 +6238,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Pellegrino Rossi 072 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6227,8 +6269,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Pellegrino Rossi 072 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },

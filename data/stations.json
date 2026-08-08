@@ -4741,8 +4741,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 002",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }

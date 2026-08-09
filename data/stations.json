@@ -2534,8 +2534,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 133",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }

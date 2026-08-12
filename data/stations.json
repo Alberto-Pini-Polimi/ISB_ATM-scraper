@@ -649,8 +649,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore PM 054 (lo trovate nell’area della stazione M2)",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -1064,8 +1064,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale Piazza Cordusio/San Prospero",
                                 "code": "ME 1",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -1095,8 +1095,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale Piazza Cordusio/San Prospero",
                                 "code": "ME 1",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -1202,8 +1202,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Piazza Cadorna, davanti alla stazione",
                                 "code": "ME 164",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -1233,8 +1233,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Piazza Cadorna, davanti alla stazione",
                                 "code": "ME 164",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -3384,8 +3384,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Piazza Cadorna, davanti alla stazione",
                                 "code": "ME 164",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -3415,8 +3415,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Piazza Cadorna, davanti alla stazione",
                                 "code": "ME 164",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -7896,8 +7896,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 054",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Montascale",
@@ -7941,8 +7941,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 054",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -8434,8 +8434,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Piazza Bolivar, 2",
                                 "code": "AE 414",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -8465,8 +8465,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Piazza Bolivar, 2",
                                 "code": "AE 414",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },

@@ -222,8 +222,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale v.le Monza angolo via Brunico",
                                 "code": "ME 2",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -253,8 +253,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale v.le Monza angolo via Brunico",
                                 "code": "ME 2",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -925,8 +925,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 4",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -988,8 +988,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale Via Torino",
                                 "code": "ME 4",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -1026,8 +1026,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale Via Torino",
                                 "code": "ME 4",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -1064,8 +1064,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale Piazza Cordusio/San Prospero",
                                 "code": "ME 1",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -1095,8 +1095,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale Piazza Cordusio/San Prospero",
                                 "code": "ME 1",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -1436,8 +1436,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 121",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -1481,8 +1481,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 120",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -2666,15 +2666,15 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Forum",
                                 "code": "ME 092",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore Uffici",
                                 "code": "ME 093",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -2711,15 +2711,15 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Forum",
                                 "code": "ME 092",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore Uffici",
                                 "code": "ME 093",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -4690,8 +4690,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Parcheggio ATM Gessate - Via XX Settembre",
                                 "code": "EM 004",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -4728,8 +4728,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Parcheggio ATM Gessate - Via XX Settembre",
                                 "code": "EM 004",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -5619,8 +5619,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale Via Torino",
                                 "code": "ME 4",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -5664,8 +5664,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale Via Torino",
                                 "code": "ME 4",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },

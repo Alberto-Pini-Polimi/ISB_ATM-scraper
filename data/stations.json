@@ -429,8 +429,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Turro",
                                 "code": "ME 191",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -442,8 +442,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 193",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -460,8 +460,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Turro",
                                 "code": "ME 191",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -9221,8 +9221,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CA 442",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -9252,8 +9252,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CA 442",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }

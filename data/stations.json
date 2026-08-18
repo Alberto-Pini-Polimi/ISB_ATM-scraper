@@ -442,8 +442,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 193",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -2813,8 +2813,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 090",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },

@@ -649,8 +649,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore PM 054 (lo trovate nell’area della stazione M2)",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -2116,6 +2116,20 @@
                                 "code": "ME 149",
                                 "status": "Fuori Servizio",
                                 "is_working": false
+                            },
+                            {
+                                "type": "Altro",
+                                "description": "considerate gli impianti nella stazione",
+                                "code": "M5",
+                                "status": "",
+                                "is_working": false
+                            },
+                            {
+                                "type": "Ascensore",
+                                "description": "Ascensore P.le Lotto/Angolo V.le Vigliani",
+                                "code": "AE 568",
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -2127,8 +2141,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 147",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -2147,6 +2161,20 @@
                                 "code": "ME 149",
                                 "status": "Fuori Servizio",
                                 "is_working": false
+                            },
+                            {
+                                "type": "Altro",
+                                "description": "considerate gli impianti nella stazione",
+                                "code": "M5",
+                                "status": "",
+                                "is_working": false
+                            },
+                            {
+                                "type": "Ascensore",
+                                "description": "Ascensore P.le Lotto/Angolo V.le Vigliani",
+                                "code": "AE 568",
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -2158,8 +2186,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 148",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -2741,8 +2769,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 089",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -3563,8 +3591,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Sturzo",
                                 "code": "ME 546",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -3601,8 +3629,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Sturzo",
                                 "code": "ME 546",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -4075,8 +4103,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale P.za Udine/Via Tolmezzo",
                                 "code": "ME 2",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -4088,8 +4116,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 1",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -4106,8 +4134,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale P.za Udine/Via Tolmezzo",
                                 "code": "ME 2",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -4119,8 +4147,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 2",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -6321,8 +6349,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Astesani 075 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6334,8 +6362,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 074 DM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -6352,8 +6380,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Astesani 075 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6365,8 +6393,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 073 PM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -7025,8 +7053,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Sturzo",
                                 "code": "ME 546",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -7056,8 +7084,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Sturzo",
                                 "code": "ME 546",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -7868,8 +7896,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 054",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Montascale",
@@ -7913,8 +7941,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 054",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }

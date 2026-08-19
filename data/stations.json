@@ -856,8 +856,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 2",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -3162,8 +3162,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore S. Agostino",
                                 "code": "ME 075",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -3214,8 +3214,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore S. Agostino",
                                 "code": "ME 075",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -3279,8 +3279,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 1",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
@@ -3621,8 +3621,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 062",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -7938,8 +7938,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Harar",
                                 "code": "AE 578",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
@@ -7976,8 +7976,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Harar",
                                 "code": "AE 578",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",

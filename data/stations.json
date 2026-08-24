@@ -2754,8 +2754,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Lato Cascina Bazzana",
                                 "code": "ME 96",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -2798,8 +2798,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Lato Cascina Bazzana",
                                 "code": "ME 96",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -6403,8 +6403,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 077 DM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -6459,8 +6459,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Fulvio Testi",
                                 "code": "ME 522",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6490,8 +6490,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Fulvio Testi",
                                 "code": "ME 522",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -7958,8 +7958,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DA 577",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -9124,8 +9124,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CA 440",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -9155,8 +9155,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CA 440",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }

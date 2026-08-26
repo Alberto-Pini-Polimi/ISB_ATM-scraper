@@ -442,8 +442,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 193",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -1875,8 +1875,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 1",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
@@ -5310,8 +5310,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 025 PM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
@@ -5342,8 +5342,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore C.so Lodi 2 030 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -5355,8 +5355,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 029 DM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -5373,8 +5373,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore C.so Lodi 2 030 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -5393,8 +5393,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 028 PM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }

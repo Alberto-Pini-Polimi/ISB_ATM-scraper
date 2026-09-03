@@ -291,8 +291,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale V.le Monza, angolo via Cislaghi",
                                 "code": "ME 4",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -322,8 +322,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale V.le Monza, angolo via Cislaghi",
                                 "code": "ME 4",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -567,8 +567,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale v.le Monza ang. via dei Transiti",
                                 "code": "MI 2",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -598,8 +598,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale v.le Monza ang. via dei Transiti",
                                 "code": "MI 2",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -1416,8 +1416,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.za Wagner",
                                 "code": "ME 119",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -1461,8 +1461,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.za Wagner",
                                 "code": "ME 119",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -2728,8 +2728,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via del Bosco Rinnovato",
                                 "code": "ME 088",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -2741,8 +2741,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 089",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -2772,8 +2772,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via del Bosco Rinnovato",
                                 "code": "ME 088",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -4781,8 +4781,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "MD 033",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -4914,8 +4914,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Marignano 009 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -4952,8 +4952,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Marignano 009 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -6735,8 +6735,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.le Istria",
                                 "code": "ME 534",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6766,8 +6766,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.le Istria",
                                 "code": "ME 534",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6873,8 +6873,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Zara",
                                 "code": "ME 540",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
@@ -6893,8 +6893,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CM 539",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -6911,8 +6911,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Zara",
                                 "code": "ME 540",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
@@ -6931,8 +6931,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CM 539",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }

@@ -1506,8 +1506,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore De angeli",
                                 "code": "ME 125",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -1537,8 +1537,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore De angeli",
                                 "code": "ME 125",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -3842,8 +3842,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI4",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -4436,8 +4436,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 020",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -5310,8 +5310,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 025 PM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
@@ -6390,8 +6390,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Comasina 078 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6421,8 +6421,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Comasina 078 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -8641,8 +8641,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via San Vittore / Via Giosuè Carducci",
                                 "code": "AE 420",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -8679,8 +8679,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via San Vittore / Via Giosuè Carducci",
                                 "code": "AE 420",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },

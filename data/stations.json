@@ -567,8 +567,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale v.le Monza ang. via dei Transiti",
                                 "code": "MI 2",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -598,8 +598,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale v.le Monza ang. via dei Transiti",
                                 "code": "MI 2",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -5266,8 +5266,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.le Lodi 024 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -5297,8 +5297,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.le Lodi 024 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -6227,8 +6227,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 067 PM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -7716,15 +7716,15 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CA 569",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CA 570",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -7754,15 +7754,15 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CA 569",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CA 570",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -7786,15 +7786,15 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via dei Rospigliosi",
                                 "code": "AE 574",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore Via dei Rospigliosi",
                                 "code": "AE 575",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -7806,8 +7806,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DA 573",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -7824,15 +7824,15 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via dei Rospigliosi",
                                 "code": "AE 574",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore Via dei Rospigliosi",
                                 "code": "AE 575",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -7844,8 +7844,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PA 572",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -7973,8 +7973,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Harar",
                                 "code": "AE 579",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -8011,8 +8011,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Harar",
                                 "code": "AE 579",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },

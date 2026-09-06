@@ -4662,8 +4662,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Parcheggio ATM Gessate - Via XX Settembre",
                                 "code": "EM 004",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -4700,8 +4700,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Parcheggio ATM Gessate - Via XX Settembre",
                                 "code": "EM 004",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6748,8 +6748,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 533",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -8024,8 +8024,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PA 576",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }

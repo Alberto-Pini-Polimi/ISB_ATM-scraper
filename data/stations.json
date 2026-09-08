@@ -442,8 +442,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 193",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -1001,8 +1001,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 171",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -3563,8 +3563,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Sturzo",
                                 "code": "ME 546",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -3601,8 +3601,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Sturzo",
                                 "code": "ME 546",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -4824,8 +4824,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Pascoli",
                                 "code": "EM 028",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
@@ -4862,8 +4862,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Pascoli",
                                 "code": "EM 028",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
@@ -4914,8 +4914,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Marignano 009 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -4952,8 +4952,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Marignano 009 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -5034,8 +5034,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 014 PM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -6893,8 +6893,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CM 539",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -6931,8 +6931,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CM 539",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -6969,8 +6969,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 543",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -7000,8 +7000,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 542",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -7025,8 +7025,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Sturzo",
                                 "code": "ME 546",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -7056,8 +7056,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Sturzo",
                                 "code": "ME 546",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },

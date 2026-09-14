@@ -2631,15 +2631,15 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Capolinea Bus",
                                 "code": "ME 091",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore Forum",
                                 "code": "ME 092",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
@@ -2676,15 +2676,15 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Capolinea Bus",
                                 "code": "ME 091",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore Forum",
                                 "code": "ME 092",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
@@ -3646,8 +3646,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale Via Melchiorre Gioia/Via Pirelli",
                                 "code": "ME 2",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -3677,8 +3677,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale Via Melchiorre Gioia/Via Pirelli",
                                 "code": "ME 2",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -4171,8 +4171,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CM 43",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -4216,8 +4216,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CM 43",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -4369,8 +4369,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 027",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -4387,8 +4387,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 026",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -6321,8 +6321,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Astesani 075 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6352,8 +6352,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Astesani 075 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },

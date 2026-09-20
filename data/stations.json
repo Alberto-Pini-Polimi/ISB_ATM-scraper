@@ -1519,8 +1519,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 127",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -1651,8 +1651,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Bande nere",
                                 "code": "ME 122",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -1696,8 +1696,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Bande nere",
                                 "code": "ME 122",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -3887,8 +3887,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CM 050",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -3925,8 +3925,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CM 050",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -6390,8 +6390,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Comasina 078 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -6421,8 +6421,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Comasina 078 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -8557,8 +8557,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CA 418",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -8588,8 +8588,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CA 418",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }

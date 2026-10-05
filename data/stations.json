@@ -429,8 +429,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Turro",
                                 "code": "ME 191",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -460,8 +460,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Turro",
                                 "code": "ME 191",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -1246,8 +1246,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 162",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -1575,8 +1575,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale Via Trivulzio",
                                 "code": "ME 5",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -1606,8 +1606,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale Via Trivulzio",
                                 "code": "ME 5",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -2252,8 +2252,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 143",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -3950,8 +3950,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Stazione FS",
                                 "code": "EM 048",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Montascale",
@@ -3991,8 +3991,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CM 046",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -4009,8 +4009,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Stazione FS",
                                 "code": "EM 048",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Montascale",
@@ -4050,8 +4050,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CM 046",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -4171,8 +4171,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CM 43",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -4216,8 +4216,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CM 43",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -6252,8 +6252,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Pellegrino Rossi 072 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6283,8 +6283,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Pellegrino Rossi 072 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -7592,6 +7592,20 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.le Lotto/Angolo V.le Vigliani",
                                 "code": "AE 568",
+                                "status": "Fuori Servizio",
+                                "is_working": false
+                            },
+                            {
+                                "type": "Altro",
+                                "description": "considerate gli impianti nella stazione",
+                                "code": "M1",
+                                "status": "",
+                                "is_working": false
+                            },
+                            {
+                                "type": "Ascensore",
+                                "description": "Ascensore Via Monte Rosa 91",
+                                "code": "ME 149",
                                 "status": "In servizio",
                                 "is_working": true
                             }
@@ -7630,6 +7644,20 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.le Lotto/Angolo V.le Vigliani",
                                 "code": "AE 568",
+                                "status": "Fuori Servizio",
+                                "is_working": false
+                            },
+                            {
+                                "type": "Altro",
+                                "description": "considerate gli impianti nella stazione",
+                                "code": "M1",
+                                "status": "",
+                                "is_working": false
+                            },
+                            {
+                                "type": "Ascensore",
+                                "description": "Ascensore Via Monte Rosa 91",
+                                "code": "ME 149",
                                 "status": "In servizio",
                                 "is_working": true
                             }
@@ -8799,8 +8827,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CA 428",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -8837,8 +8865,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CA 428",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }

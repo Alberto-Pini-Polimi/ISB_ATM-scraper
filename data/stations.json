@@ -2089,8 +2089,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 3",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -2961,8 +2961,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore L.go Ascari",
                                 "code": "ME 079",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
@@ -3006,8 +3006,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore L.go Ascari",
                                 "code": "ME 079",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
@@ -4144,8 +4144,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Palmanova",
                                 "code": "EM 041",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
@@ -4189,8 +4189,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Palmanova",
                                 "code": "EM 041",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
@@ -6265,8 +6265,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 071 DM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -6710,8 +6710,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 530",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -6779,8 +6779,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 532",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }

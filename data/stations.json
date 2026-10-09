@@ -3715,8 +3715,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.le Duca D'Aosta",
                                 "code": "ME 057",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -3746,8 +3746,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.le Duca D'Aosta",
                                 "code": "ME 057",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -3950,29 +3950,29 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Stazione FS",
                                 "code": "EM 048",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Montascale",
                                 "description": "Montascale P.za Bottini",
                                 "code": "MI 2",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Montascale",
                                 "description": "Montascale Via Pacini/Via Bottesini",
                                 "code": "ME 1",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Pacini",
                                 "code": "ME 047",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -3984,15 +3984,15 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 4",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CM 046",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -4009,29 +4009,29 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Stazione FS",
                                 "code": "EM 048",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Montascale",
                                 "description": "Montascale P.za Bottini",
                                 "code": "MI 2",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Montascale",
                                 "description": "Montascale Via Pacini/Via Bottesini",
                                 "code": "ME 1",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Pacini",
                                 "code": "ME 047",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -4043,15 +4043,15 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 4",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CM 046",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -4517,8 +4517,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 016",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -4824,15 +4824,15 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Pascoli",
                                 "code": "EM 028",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore Via C.A. dalla Chiesa",
                                 "code": "EM 029",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -4844,8 +4844,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 031",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -4862,15 +4862,15 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Pascoli",
                                 "code": "EM 028",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore Via C.A. dalla Chiesa",
                                 "code": "EM 029",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -4882,8 +4882,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 030",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -5853,8 +5853,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.le Duca D'Aosta",
                                 "code": "ME 057",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -5891,8 +5891,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.le Duca D'Aosta",
                                 "code": "ME 057",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -5936,8 +5936,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Melchiorre Gioia, 71 058 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -5987,8 +5987,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via Melchiorre Gioia, 71 058 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -6156,8 +6156,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.le Maciachini 064 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -6169,8 +6169,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 065 DM",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -6187,8 +6187,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.le Maciachini 064 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },

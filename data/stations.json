@@ -636,8 +636,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.za Argentina",
                                 "code": "ME 051",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -667,8 +667,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.za Argentina",
                                 "code": "ME 051",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -2631,8 +2631,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Capolinea Bus",
                                 "code": "ME 091",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
@@ -2676,8 +2676,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Capolinea Bus",
                                 "code": "ME 091",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
@@ -3259,20 +3259,6 @@
                                 "type": "Montascale",
                                 "description": "Montascale Via de Amicis, 61",
                                 "code": "ME 3",
-                                "status": "Fuori Servizio",
-                                "is_working": false
-                            },
-                            {
-                                "type": "Altro",
-                                "description": "considerate gli impianti nella stazione",
-                                "code": "M4",
-                                "status": "",
-                                "is_working": false
-                            },
-                            {
-                                "type": "Ascensore",
-                                "description": "Ascensore Via San Vittore / Via Giosuè Carducci",
-                                "code": "AE 420",
                                 "status": "In servizio",
                                 "is_working": true
                             },
@@ -3280,20 +3266,6 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore S. Ambrogio",
                                 "code": "ME 072",
-                                "status": "Fuori Servizio",
-                                "is_working": false
-                            },
-                            {
-                                "type": "Altro",
-                                "description": "considerate gli impianti nella stazione",
-                                "code": "M4",
-                                "status": "",
-                                "is_working": false
-                            },
-                            {
-                                "type": "Ascensore",
-                                "description": "Ascensore Via San Vittore / Via Giosuè Carducci",
-                                "code": "AE 420",
                                 "status": "In servizio",
                                 "is_working": true
                             }
@@ -3332,20 +3304,6 @@
                                 "type": "Montascale",
                                 "description": "Montascale Via de Amicis, 61",
                                 "code": "ME 3",
-                                "status": "Fuori Servizio",
-                                "is_working": false
-                            },
-                            {
-                                "type": "Altro",
-                                "description": "considerate gli impianti nella stazione",
-                                "code": "M4",
-                                "status": "",
-                                "is_working": false
-                            },
-                            {
-                                "type": "Ascensore",
-                                "description": "Ascensore Via San Vittore / Via Giosuè Carducci",
-                                "code": "AE 420",
                                 "status": "In servizio",
                                 "is_working": true
                             },
@@ -3353,20 +3311,6 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore S. Ambrogio",
                                 "code": "ME 072",
-                                "status": "Fuori Servizio",
-                                "is_working": false
-                            },
-                            {
-                                "type": "Altro",
-                                "description": "considerate gli impianti nella stazione",
-                                "code": "M4",
-                                "status": "",
-                                "is_working": false
-                            },
-                            {
-                                "type": "Ascensore",
-                                "description": "Ascensore Via San Vittore / Via Giosuè Carducci",
-                                "code": "AE 420",
                                 "status": "In servizio",
                                 "is_working": true
                             }
@@ -7502,8 +7446,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CA 561",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -7540,8 +7484,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CA 561",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -7897,8 +7841,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.za Argentina",
                                 "code": "ME 051",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -7949,8 +7893,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.za Argentina",
                                 "code": "ME 051",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -8848,8 +8792,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CA 427",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
@@ -8886,8 +8830,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CA 427",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",

@@ -3773,8 +3773,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 053 DA (lo trovate nell’area della stazione M3)",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -5873,8 +5873,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 053 DA",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -6045,8 +6045,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Zara, 40 061 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -6058,8 +6058,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 063 DM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -6076,8 +6076,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore V.le Zara, 40 061 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },

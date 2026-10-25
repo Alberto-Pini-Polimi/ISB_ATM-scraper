@@ -5266,8 +5266,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.le Lodi 024 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -5297,8 +5297,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore P.le Lodi 024 ME",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -6058,8 +6058,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 063 DM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }

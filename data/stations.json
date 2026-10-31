@@ -28,8 +28,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "DM 209",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -59,8 +59,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "PM 210",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -3728,8 +3728,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 050 DM (lo trovate nell’area della stazione M3)",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -3759,22 +3759,22 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 050 DM (lo trovate nell’area della stazione M3)",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore 052 PA (lo trovate nell’area della stazione M3)",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore 053 DA (lo trovate nell’area della stazione M3)",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -3950,8 +3950,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Stazione FS",
                                 "code": "EM 048",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Montascale",
@@ -4009,8 +4009,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Stazione FS",
                                 "code": "EM 048",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Montascale",
@@ -4075,8 +4075,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale P.za Udine/Via Tolmezzo",
                                 "code": "ME 2",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -4088,8 +4088,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 1",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -4106,8 +4106,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale P.za Udine/Via Tolmezzo",
                                 "code": "ME 2",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -4119,8 +4119,8 @@
                                 "type": "Montascale",
                                 "description": "Montascale",
                                 "code": "MI 2",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -4831,8 +4831,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via C.A. dalla Chiesa",
                                 "code": "EM 029",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -4869,8 +4869,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via C.A. dalla Chiesa",
                                 "code": "EM 029",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -5342,8 +5342,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore C.so Lodi 2 030 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -5355,8 +5355,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 029 DM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -5373,8 +5373,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore C.so Lodi 2 030 ME",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     },
@@ -5386,15 +5386,15 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 027 PM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore 028 PM",
                                 "code": "N/A",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -5866,15 +5866,15 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 050 DM",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
                                 "description": "Ascensore 053 DA",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     }
@@ -5904,8 +5904,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore 052 PA",
                                 "code": "N/A",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Rampa",
@@ -6893,8 +6893,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CM 539",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -6931,8 +6931,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CM 539",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -7038,8 +7038,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CM 545",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -7069,8 +7069,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CM 545",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             }
                         ]
                     }
@@ -7688,8 +7688,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CA 569",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
@@ -7726,8 +7726,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore",
                                 "code": "CA 569",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             },
                             {
                                 "type": "Ascensore",
@@ -7758,8 +7758,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via dei Rospigliosi",
                                 "code": "AE 574",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
@@ -7796,8 +7796,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Via dei Rospigliosi",
                                 "code": "AE 574",
-                                "status": "Fuori Servizio",
-                                "is_working": false
+                                "status": "In servizio",
+                                "is_working": true
                             },
                             {
                                 "type": "Ascensore",
@@ -9249,8 +9249,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Viale Argonne 2",
                                 "code": "AE 443",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
@@ -9280,8 +9280,8 @@
                                 "type": "Ascensore",
                                 "description": "Ascensore Viale Argonne 2",
                                 "code": "AE 443",
-                                "status": "In servizio",
-                                "is_working": true
+                                "status": "Fuori Servizio",
+                                "is_working": false
                             }
                         ]
                     },
